@@ -2,3 +2,16 @@
 1437983623657	Rename resource 'sprout-DispatcherServlet-servlet.xml'
 1437983913430	Delete element
 1437984847797	Rename resource 'Sprout-DispatcherServlet-servlet.xml'
+1437997167069	Delete element
+1437997178267	Rename resource 'home.html'
+1438005505957	Move 'css' to 'WebContent'
+1438005619403	Move 'images' to 'WebContent'
+1438005623515	Move 'javaScript' to 'WebContent'
+1438005630418	Delete element
+1438006031730	Delete element
+1438006066243	Delete element
+1438006257155	Move 'images' to 'resources'
+1438006265208	Move 'css' to 'resources'
+1438006277865	Move 'javaScript' to 'resources'
+1438006651610	Rename resource 'background 3.png'
+1438007507743	Rename resource 'team.html'
