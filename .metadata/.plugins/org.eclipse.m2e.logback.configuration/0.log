@@ -1,0 +1,9 @@
+2015-07-27 14:38:45,829 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: au.com.sprouttech:sprouttech:0.0.1-SNAPSHOT @ /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/pom.xml.
+2015-07-27 14:38:47,309 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au.com.sprouttech/src
+2015-07-27 14:38:47,310 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /au.com.sprouttech/src/test/java because it overlaps with /au.com.sprouttech/src
+2015-07-27 14:38:47,312 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: au.com.sprouttech:sprouttech:0.0.1-SNAPSHOT @ /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/pom.xml.
+2015-07-27 14:38:47,472 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2015-07-27 14:38:48,995 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 14:38:48,997 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 14:38:49,001 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 14:38:49,002 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
