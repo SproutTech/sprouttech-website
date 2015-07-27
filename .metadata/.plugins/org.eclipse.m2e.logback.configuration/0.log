@@ -259,3 +259,650 @@
 2015-07-27 18:35:04,895 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
 2015-07-27 18:35:04,897 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-07-27 18:35:04,898 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:36:18,465 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:36:18,472 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:36:18,474 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:36:18,475 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:36:33,703 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:36:33,703 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:36:33,705 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:36:33,711 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:36:45,200 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:36:45,209 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:36:45,211 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:36:45,211 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:37:08,931 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:37:08,933 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:37:08,934 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:37:08,935 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:37:19,216 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:37:19,217 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:37:19,218 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:37:19,218 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:37:28,513 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:37:28,514 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:37:28,515 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:37:28,516 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:38:05,707 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:38:05,711 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:38:05,713 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:38:05,713 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:38:26,733 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:38:26,734 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:38:26,735 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:38:26,735 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:39:17,672 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:39:17,674 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:39:17,680 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:39:17,682 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:39:27,626 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:39:27,635 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:39:27,638 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:39:27,639 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:39:39,091 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:39:39,092 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:39:39,094 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:39:39,095 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:41:06,875 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:41:06,878 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:41:06,879 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:41:06,880 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:42:25,623 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:42:25,626 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:42:25,628 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:42:25,629 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:43:37,947 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:43:37,948 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:43:37,950 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:43:37,951 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:43:43,424 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:43:43,427 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:43:43,430 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:43:43,430 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:44:18,619 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:44:18,620 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:44:18,622 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:44:18,622 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:48:15,577 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:48:15,586 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:48:15,588 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:48:15,589 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:49:17,356 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:49:17,358 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:49:17,361 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:49:17,361 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:49:22,309 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:49:22,310 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:49:22,311 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:49:22,318 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:50:13,770 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:50:13,779 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:50:13,781 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:50:13,782 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:50:58,267 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:50:58,276 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:50:58,277 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:50:58,278 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 21:56:23,731 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:56:23,733 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 21:56:23,735 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 21:56:23,735 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:08:40,440 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:08:40,443 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:08:40,445 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:08:40,445 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:09:25,210 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:09:25,211 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/main/resources
+2015-07-27 22:09:25,212 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:09:25,213 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/test/resources
+2015-07-27 22:11:20,937 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:11:20,939 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:11:20,941 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:11:20,941 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:11:38,396 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:11:38,397 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:11:38,399 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:11:38,399 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:11:44,822 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:11:44,823 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/main/resources
+2015-07-27 22:11:44,825 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:11:44,825 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/test/resources
+2015-07-27 22:12:33,805 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:12:33,815 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:12:33,817 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:12:33,818 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:12:56,859 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:12:56,860 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/main/resources
+2015-07-27 22:12:56,862 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:12:56,862 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/test/resources
+2015-07-27 22:15:16,128 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:15:16,130 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/main/resources
+2015-07-27 22:15:16,134 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:15:16,135 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/test/resources
+2015-07-27 22:15:25,650 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:15:25,650 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:15:25,652 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:15:25,658 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:18:46,424 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:18:46,426 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/main/resources
+2015-07-27 22:18:46,428 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:18:46,429 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/test/resources
+2015-07-27 22:19:27,561 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:19:27,564 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/main/resources
+2015-07-27 22:19:27,566 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:19:27,567 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/test/resources
+2015-07-27 22:22:10,067 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:22:10,070 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/main/resources
+2015-07-27 22:22:10,072 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:22:10,072 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/test/resources
+2015-07-27 22:24:08,387 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:24:08,397 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:24:08,398 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:24:08,398 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:24:27,539 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:24:27,540 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/main/resources
+2015-07-27 22:24:27,541 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:24:27,542 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/test/resources
+2015-07-27 22:25:23,308 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:25:23,309 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/main/resources
+2015-07-27 22:25:23,310 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:25:23,311 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/test/resources
+2015-07-27 22:25:37,369 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:25:37,370 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/main/resources
+2015-07-27 22:25:37,372 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:25:37,372 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/test/resources
+2015-07-27 22:25:54,024 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:25:54,025 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/main/resources
+2015-07-27 22:25:54,027 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:25:54,027 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/test/resources
+2015-07-27 22:27:52,030 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:27:52,034 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:27:52,036 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:27:52,039 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:28:49,086 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:28:49,089 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:28:49,091 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:28:49,091 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:29:16,646 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:29:16,648 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:29:16,649 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:29:16,649 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:29:51,700 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:29:51,710 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:29:51,711 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:29:51,712 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:30:44,114 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:30:44,115 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:30:44,117 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:30:44,117 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:30:46,680 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:30:46,680 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:30:46,681 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:30:46,689 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:30:58,796 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:30:58,804 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:30:58,807 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:30:58,807 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:32:37,830 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:32:37,840 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:32:37,853 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:32:37,853 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:36:38,108 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:36:38,110 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:36:38,112 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:36:38,112 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:37:29,700 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:37:29,702 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:37:29,704 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:37:29,704 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:38:06,323 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:38:06,324 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:38:06,326 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:38:06,326 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:38:09,265 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:38:09,265 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:38:09,267 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:38:09,274 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:38:47,444 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:38:47,445 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:38:47,446 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:38:47,447 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:39:48,058 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:39:48,061 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:39:48,063 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:39:48,063 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:40:22,162 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:40:22,164 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:40:22,167 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:40:22,167 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:40:52,195 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:40:52,204 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:40:52,205 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:40:52,207 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:41:43,685 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:41:43,686 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:41:43,687 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:41:43,688 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:43:10,907 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:43:10,908 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:43:10,912 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:43:10,912 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:45:25,172 [Worker-140] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for au.com.sprouttech
+2015-07-27 22:45:25,193 [Worker-140] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for com.rajeshbasnet
+2015-07-27 22:45:25,817 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:45:25,822 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:45:25,823 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:45:25,824 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:45:27,038 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:45:27,039 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/main/resources
+2015-07-27 22:45:27,040 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:45:27,042 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/test/resources
+2015-07-27 22:46:02,579 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:46:02,586 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:46:02,587 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:46:02,588 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:48:59,149 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:48:59,158 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:48:59,164 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:48:59,165 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:49:42,232 [Worker-140] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-07-27 22:49:42,575 [Worker-140] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: au.com.sprouttech:au.com.sprouttech:0.0.1-SNAPSHOT @ /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/pom.xml.
+2015-07-27 22:49:43,276 [Worker-140] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /au.com.sprouttech/src
+2015-07-27 22:49:43,277 [Worker-140] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /au.com.sprouttech/src/test/java because it overlaps with /au.com.sprouttech/src
+2015-07-27 22:49:43,570 [Worker-140] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: au.com.sprouttech:au.com.sprouttech:0.0.1-SNAPSHOT @ /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/pom.xml.
+2015-07-27 22:49:43,875 [Worker-140] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for au.com.sprouttech
+2015-07-27 22:49:43,878 [Worker-140] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-07-27 22:49:44,518 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:49:44,518 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:49:44,520 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:49:44,520 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:49:53,427 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:49:53,434 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:49:53,436 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:49:53,437 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:49:54,518 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/help,null}
+2015-07-27 22:50:38,735 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:50:38,742 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:50:38,745 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:50:38,745 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:50:40,042 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:50:40,042 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/main/resources
+2015-07-27 22:50:40,044 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:50:40,044 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/test/resources
+2015-07-27 22:51:34,974 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:51:34,976 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:51:34,979 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:51:34,979 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:51:58,355 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:51:58,365 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:51:58,367 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:51:58,367 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:56:24,133 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:56:24,135 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:56:24,137 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:56:24,138 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:57:05,314 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:57:05,317 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:57:05,319 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:57:05,320 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:57:13,204 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:57:13,205 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:57:13,207 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:57:13,215 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:57:23,527 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:57:23,527 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:57:23,531 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:57:23,532 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 22:58:09,092 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:58:09,093 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 22:58:09,095 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 22:58:09,095 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:35:17,644 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for au.com.sprouttech
+2015-07-27 23:35:17,662 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for com.rajeshbasnet
+2015-07-27 23:35:19,154 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:35:19,158 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:35:19,160 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:35:19,160 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:35:22,690 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:35:22,691 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/main/resources
+2015-07-27 23:35:22,692 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:35:22,693 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/test/resources
+2015-07-27 23:43:00,935 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:43:00,959 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:43:00,964 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:43:00,964 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:44:37,284 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for au.com.sprouttech
+2015-07-27 23:44:38,465 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:44:38,478 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:44:38,480 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:44:38,482 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:45:17,951 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:45:17,955 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:45:17,957 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:45:17,957 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:46:34,431 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:46:34,432 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:46:34,434 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:46:34,434 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:46:47,489 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:46:47,490 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:46:47,492 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:46:47,498 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:47:21,854 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:47:21,856 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:47:21,857 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:47:21,858 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:47:27,428 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:47:27,429 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:47:27,431 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:47:27,432 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:47:45,875 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:47:45,876 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:47:45,879 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:47:45,880 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:48:08,099 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:48:08,099 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:48:08,102 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:48:08,102 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:51:00,959 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:51:00,969 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:51:00,971 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:51:00,972 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:51:13,671 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:51:13,672 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:51:13,676 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:51:13,677 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:54:25,596 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:54:25,604 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:54:25,606 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:54:25,607 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:54:46,299 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:54:46,300 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:54:46,302 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:54:46,308 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:54:51,820 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:54:51,821 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:54:51,823 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:54:51,823 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:58:26,183 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:58:26,185 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:58:26,186 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:58:26,187 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:58:36,531 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:58:36,531 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:58:36,534 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:58:36,535 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:58:54,259 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:58:54,260 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:58:54,262 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:58:54,268 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:59:05,312 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:59:05,313 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:59:05,314 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:59:05,320 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-27 23:59:40,345 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:59:40,354 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-27 23:59:40,356 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-27 23:59:40,356 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:00:19,589 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:00:19,591 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:00:19,592 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:00:19,593 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:00:24,450 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:00:24,450 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:00:24,452 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:00:24,459 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:00:30,773 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:00:30,775 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:00:30,777 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:00:30,777 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:01:17,812 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:01:17,815 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:01:17,818 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:01:17,818 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:05:22,387 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:05:22,388 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:05:22,389 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:05:22,390 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:06:09,557 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:06:09,558 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:06:09,559 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:06:09,560 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:07:12,217 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:07:12,226 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:07:12,229 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:07:12,230 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:07:46,701 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:07:46,703 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:07:46,705 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:07:46,705 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:08:46,969 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:08:46,982 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:08:46,984 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:08:46,985 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:09:43,029 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:09:43,032 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:09:43,034 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:09:43,035 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:10:03,412 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:10:03,413 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:10:03,416 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:10:03,421 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:10:50,420 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:10:50,429 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:10:50,433 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:10:50,433 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:10:57,798 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:10:57,799 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:10:57,801 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:10:57,802 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:11:05,394 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:11:05,395 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:11:05,411 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:11:05,412 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:11:18,632 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:11:18,632 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:11:18,635 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:11:18,640 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:11:37,854 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:11:37,855 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:11:37,857 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:11:37,858 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:12:13,273 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:12:13,278 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:12:13,281 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:12:13,282 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:12:39,107 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:12:39,112 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:12:39,114 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:12:39,114 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:13:25,959 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:13:25,963 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:13:25,966 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:13:25,967 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:13:43,181 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:13:43,190 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:13:43,192 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:13:43,193 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:14:59,185 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:14:59,194 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:14:59,196 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:14:59,197 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:15:22,116 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:15:22,117 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:15:22,120 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:15:22,120 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:15:24,549 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:15:24,550 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:15:24,552 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:15:24,557 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:16:26,634 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:16:26,635 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:16:26,636 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:16:26,642 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:16:55,214 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:16:55,214 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:16:55,216 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:16:55,223 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:17:32,107 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:17:32,108 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:17:32,109 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:17:32,116 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:17:53,413 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:17:53,413 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:17:53,414 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:17:53,421 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:18:41,149 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:18:41,158 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:18:41,161 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:18:41,162 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:19:34,196 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:19:34,204 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:19:34,210 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:19:34,210 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:20:06,888 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:20:06,896 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:20:06,898 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:20:06,898 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:20:32,930 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:20:32,932 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:20:32,933 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:20:32,934 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:20:49,161 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:20:49,169 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:20:49,172 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:20:49,172 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:21:09,175 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:21:09,175 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:21:09,176 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:21:09,183 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:21:53,069 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:21:53,078 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:21:53,079 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:21:53,080 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:21:58,858 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:21:58,859 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:21:58,876 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:21:58,877 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:23:36,845 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:23:36,851 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:23:36,853 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:23:36,853 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:24:10,693 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:24:10,695 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:24:10,696 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:24:10,696 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:26:18,271 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:26:18,276 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:26:18,278 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:26:18,279 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:27:13,430 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:27:13,440 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:27:13,446 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:27:13,447 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:27:38,956 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:27:38,958 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:27:38,962 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:27:38,969 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:27:42,933 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:27:42,933 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:27:42,935 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:27:42,941 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:30:48,327 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.16.v20140903
+2015-07-28 00:30:48,363 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:49912
+2015-07-28 00:31:19,470 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:31:19,472 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:31:19,473 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:31:19,474 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:31:38,815 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:31:38,817 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:31:38,818 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:31:38,819 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:31:48,304 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:31:48,304 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:31:48,306 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:31:48,306 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:32:09,501 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:32:09,501 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:32:09,503 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:32:09,509 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:32:52,072 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:32:52,072 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:32:52,076 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:32:52,080 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:32:58,316 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:32:58,316 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:32:58,318 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:32:58,325 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:33:48,762 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:33:48,764 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:33:48,765 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:33:48,765 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:34:11,643 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:34:11,644 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/main/resources
+2015-07-28 00:34:11,649 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:34:11,650 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/test/resources
+2015-07-28 00:35:09,295 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:35:09,297 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:35:09,300 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:35:09,300 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:35:17,070 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:35:17,070 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:35:17,072 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:35:17,078 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:36:25,219 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:36:25,220 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:36:25,222 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:36:25,223 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:37:05,662 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:37:05,662 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:37:05,665 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:37:05,670 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:37:11,766 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:37:11,767 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:37:11,768 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:37:11,774 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:37:35,425 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:37:35,426 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:37:35,428 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:37:35,428 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:38:43,147 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:38:43,151 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:38:43,153 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:38:43,154 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:39:14,336 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:39:14,337 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:39:14,338 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:39:14,344 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:40:04,100 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:40:04,102 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:40:04,105 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:40:04,106 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:40:16,666 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:40:16,667 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:40:16,668 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:40:16,674 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:40:19,417 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:40:19,417 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:40:19,418 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:40:19,426 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:41:14,886 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:41:14,888 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:41:14,889 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:41:14,889 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:42:10,495 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:42:10,499 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:42:10,501 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:42:10,501 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:42:58,994 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:42:58,995 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:42:58,998 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:42:58,998 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:43:26,523 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:43:26,525 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:43:26,526 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:43:26,527 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 00:43:47,649 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:43:47,650 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 00:43:47,652 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 00:43:47,657 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
