@@ -55,10 +55,25 @@
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="d"/>
+			<item value="au.com.sprouttech"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="d"/>
+			<item value="au.com.sprouttech"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="/Users/rajesh/Documents/workspace/com.rajeshbasnet"/>
 			<item value="/Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech"/>
+			<item value="/Users/rajesh/Documents/workspace/com.rajeshbasnet"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -66,19 +81,6 @@
 			<item value="[artifactId]-[version]"/>
 			<item value="[groupId].[artifactId]"/>
 			<item value="[groupId].[artifactId]-[version]"/>
-		</list>
-	</section>
-	<section name="wizardPage">
-		<list key="groupId">
-			<item value="au.com.sprouttech"/>
-		</list>
-		<list key="name">
-		</list>
-		<list key="artifactId">
-			<item value="au.com.sprouttech"/>
-		</list>
-		<list key="version">
-			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
