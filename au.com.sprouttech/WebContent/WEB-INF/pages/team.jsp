@@ -56,7 +56,7 @@
 					<li><a href="home"><i class="fa fa-home fa-lg homeIcon"></i></a></li>
 					<li><a href="portfolio"><button class="btn btn-default " id="menuBtn" >Portfolio</button></a></li>
 					<li><a href="team"><button class="btn btn-default " id="menuBtn"  style="border:1px white solid;">Team Sprout</button></a></li>
-					<li><a href="contact"><button class="btn btn-default" id="menuBtn" >Contact</button></a></li>
+					<li><a href="contacts"><button class="btn btn-default" id="menuBtn" >Contact</button></a></li>
 
 				</ul>
 

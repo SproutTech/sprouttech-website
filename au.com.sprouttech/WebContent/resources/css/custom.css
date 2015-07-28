@@ -414,6 +414,54 @@ a{
 
 
 .contactForm{
+margin-top:180px;
+	
+	min-height:70%;
+	height:780px;
 
-	min-height: 80%;
+}
+.submit{
+	
+	float:left;
+
+	color:white;
+	background-color: #409F89;
+}
+.reset{
+	float:right;
+	
+	color:white;
+}
+
+.submit:hover,focus{
+	outline:none;
+	color:white;
+}
+.reset:hover,focus{
+	outline:none;
+}
+.errorSign{
+	
+	color:red;
+	display:none;
+	margin:0 auto;
+	
+}
+.sender{
+	
+	width:200px;
+}
+.loveHear{
+	text-align:center;
+		font-family: Vollkorn;
+	font-size:24pt;
+	letter-spacing:2px;
+	color:#444444;
+}
+
+.heart{
+
+	margin-left:5px;
+	margin-right:5px;
+	color:red;
 }

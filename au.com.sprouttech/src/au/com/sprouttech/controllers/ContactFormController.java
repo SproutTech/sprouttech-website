@@ -7,22 +7,18 @@ import org.springframework.web.servlet.ModelAndView;
 
 
 @Controller
-public class HomeController {
+public class ContactFormController {
+	@RequestMapping(value={"/contacts"})
 	
-	@RequestMapping(value={"/","/home"})
 	
-	
-	public ModelAndView showHomePage(){
+	public ModelAndView showPage(){
 		
 		ModelAndView model ;
-		model = new ModelAndView("home");
+		model = new ModelAndView("contact");
 		return model;
 		
 		
 	}
-	
-
-
 	
 
 }
