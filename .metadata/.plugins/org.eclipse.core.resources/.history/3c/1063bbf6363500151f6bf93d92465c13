@@ -54,7 +54,7 @@
 							id="menuBtn">Portfolio</button></a></li>
 				<li><a href="team"><button class="btn btn-default "
 							id="menuBtn">Team Sprout</button></a></li>
-				<li><a href="contacts"><button class="btn btn-default"
+				<li><a href="contact"><button class="btn btn-default"
 							id="menuBtn" style="border: 1px white solid;">Contact</button></a></li>
 
 			</ul>
@@ -68,7 +68,7 @@
 
 	<!--Main Body Section -->
 	<div class="row contactForm">
-	<div class="row loveHear">We <i class="fa fa-heart heart"></i>LOVE TO HEAR FROM YOU</div>
+
 		<form role="form" id="contactForm">
 		
 			<div class="row">
