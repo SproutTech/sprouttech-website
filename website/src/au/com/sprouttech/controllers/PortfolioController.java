@@ -6,13 +6,13 @@ import org.springframework.web.servlet.ModelAndView;
 
 
 @Controller
-public class TestC {
+public class PortfolioController {
 	
-	@RequestMapping(value = "/contact")
+	@RequestMapping(value = "/portfolio")
 	public ModelAndView show(){
 		
 		
-		ModelAndView m =new ModelAndView("home");
+		ModelAndView m =new ModelAndView("portfolio");
 		
 		return m;
 		
