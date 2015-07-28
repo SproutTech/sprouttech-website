@@ -1,7 +1,0 @@
-//com.springsource.config.ui.prefs.activePageIndex\:/au.com.sprouttech/WebContent/WEB-INF/Sprout-DispatcherServlet-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
-//com.springsource.config.ui.prefs.activePageIndex\:/au.com.sprouttech/WebContent/WEB-INF/Sprout-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
-//com.springsource.config.ui.prefs.activePageIndex\:/au.com.sprouttech/WebContent/WEB-INF/sprout-DispatcherServlet-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage id\="com.springsource.sts.config.ui.editors.context" index\="5" kind\="formPage" uri\="http\://www.springframework.org/schema/context"/>
-//com.springsource.config.ui.prefs.activePageIndex\:/au.com.sprouttech/sprout-DispatcherServlet-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
-//com.springsource.config.ui.prefs.activePageIndex\:/com.rajeshbasnet/WebContent/WEB-INF/DispatcherServlet-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
-com.springsource.config.ui.prefs.tabs.dialog=always
-eclipse.preferences.version=1
