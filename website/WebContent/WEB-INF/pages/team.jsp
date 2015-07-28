@@ -54,9 +54,13 @@
 
 				<ul>
 					<li><a href="home"><i class="fa fa-home fa-lg homeIcon"></i></a></li>
-					<li><a href="portfolio"><button class="btn btn-default " id="menuBtn" >Portfolio</button></a></li>
-					<li><a href="team"><button class="btn btn-default " id="menuBtn"  style="border:1px white solid;">Team Sprout</button></a></li>
-					<li><a href="contacts"><button class="btn btn-default" id="menuBtn" >Contact</button></a></li>
+					<li><a href="portfolio"><button class="btn btn-default "
+								id="menuBtn">Portfolio</button></a></li>
+					<li><a href="team"><button class="btn btn-default "
+								id="menuBtn" style="border: 1px white solid;">Team
+								Sprout</button></a></li>
+					<li><a href="contacts"><button class="btn btn-default"
+								id="menuBtn">Contact</button></a></li>
 
 				</ul>
 
@@ -179,13 +183,10 @@
 		</div>
 
 
-	
+
 		<!-- Made in Australia Section -->
 
-		<div class="madeInAus">
-
-
-		</div>
+		<div class="madeInAus"></div>
 		<!-- Footer Section -->
 		<div class="row">
 
@@ -254,7 +255,16 @@
 	</div>
 
 
-	<script src="javaScript/classie.js"></script>
+	<!-- Js -->
 	<script src="javaScript/myjs.js"></script>
+	<script src="javaScript/classie.js"></script>
+	<script src="javaScript/bootstrap.min.js"></script>
+
+	<script>
+		function init() {
+			window.addEventListener('scroll', resize);
+		}
+		window.onload = init();
+	</script>
 </body>
 </html>
