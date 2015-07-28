@@ -44,7 +44,8 @@
 			<div id="logo"></div>
 				<div class="menu">
 					<ul>
-						<li><a href="#"><button class="btn btn-default" id="menuBtn">Portfolio</button></a></li>
+						
+						<li><a href="portfolio"><button class="btn btn-default" id="menuBtn">Portfolio</button></a></li>
 						<li><a href="team"><button class="btn btn-default" id="menuBtn">Team Sprout</button></a></li>
 						<li><a href="#"><button class="btn btn-default" id="menuBtn">Contact</button></a></li>
 					</ul>
@@ -54,6 +55,7 @@
 		
 		<!-- Lnding page background -->
 		<div  class="row">
+
 			<div id="introImage">
 			</div>
 		</div>
@@ -67,7 +69,7 @@
 				<div> 
 					If you are not on the web, you are missing one of the most powerful tool
 					of marketing. The trend of getting information has been changed over time.
-					We can make your presence on the web with eyecatching websites with web and mobile technology
+					We can make your presence on the web with eyecatching websites with web and mobile technology<span class="glyphicon glyphicon-envelop" aria-hidden="true" style="color:white;">
 				</div>
 			</div>
 
@@ -91,7 +93,12 @@
 
 		</div>
 	
+		<!-- Made in Australia Section -->
 
+		<div class="madeInAus">
+
+
+		</div>
 		<!-- Footer Section -->
 		<div class="row">
 
@@ -138,7 +145,7 @@
 					</ul>
 				</div>
 
-
+			
 			</footer>
 		</div>
 
