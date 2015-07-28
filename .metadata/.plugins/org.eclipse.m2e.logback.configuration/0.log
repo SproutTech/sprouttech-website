@@ -1038,3 +1038,17 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 2015-07-28 03:36:12,319 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: au.com.sprouttech:au.com.sprouttech:0.0.1-SNAPSHOT @ /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/pom.xml.
 2015-07-28 03:36:13,315 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
 2015-07-28 03:36:14,826 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: au.com.sprouttech:au.com.sprouttech:0.0.1-SNAPSHOT @ /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/pom.xml.
+2015-07-28 11:20:01,223 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 11:20:01,287 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 11:20:01,290 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 11:20:01,291 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources
+2015-07-28 11:20:05,678 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 11:20:05,679 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/main/resources
+2015-07-28 11:20:05,681 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 11:20:05,682 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/workspace/com.rajeshbasnet/src/test/resources
+2015-07-28 14:35:22,866 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.16.v20140903
+2015-07-28 14:35:22,979 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:50319
+2015-07-28 14:44:16,523 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 14:44:16,526 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/main/resources
+2015-07-28 14:44:16,529 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-28 14:44:16,530 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajesh/Documents/SproutTech/sprouttech-website/au.com.sprouttech/src/test/resources

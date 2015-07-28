@@ -1,4 +1,7 @@
-
+.glyphicon {
+   font-family:'Glyphicons Halflings' ;
+   // more css comes along here
+}
 
 /* Body background */
 body{
@@ -108,6 +111,7 @@ header.smaller .menu{
 
 
 }
+
 #menuBtn:focus{
 
 	border:1px white solid;
@@ -122,6 +126,20 @@ a{
 
 /* Footer Section */
 
+/*kangaro image */
+.madeInAus{
+	
+	height: 100px;
+	margin-bottom: 90px;
+	margin-top: 0;
+	margin:0 auto;
+	text-align: center;
+	width: 140px;
+	background-image: url(../images/madeinaustralia.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	
+}
 
 .footer{
 	height: 300px;
@@ -375,32 +393,27 @@ a{
 	color: #f16521;
 }
 
+.homeIcon{
+	font-size:80px;
+	color:white;
+	
+}
+.homeIcon:hover{
+	
+	color: #f16521;
+}
 
 .profileContainer:nth-of-type(even)>.profileImage{
 
 
 	float:right;
 }
-.tradeMark{
-	width: 70px;
-	height: 70px;
-	background-image: url("../images/kangaroo.png");
-	background-size: contain;
-	background-repeat:no-repeat;
-		margin: 0 auto;
-		margin-bottom: 5px;
-.madeInAus{
-	border-bottom: 1px #444444 solid;
-	height: 100px;
-	margin-bottom: 50px;
-	margin-top: 0;
-	margin:0 auto;
-	text-align: center;
-	width: 200px;
-}
-.madeInAus>p{
-	color:#444444;
-	font-size: 12pt;
-	font-weight: 500;
-	letter-spacing: 1.5px;
+
+/* Contact page */
+
+
+
+.contactForm{
+
+	min-height: 80%;
 }

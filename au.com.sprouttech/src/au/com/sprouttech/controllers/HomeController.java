@@ -9,7 +9,8 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class HomeController {
 	
-	@RequestMapping("/")
+	@RequestMapping(value={"/","/home"})
+	
 	
 	public ModelAndView showHomePage(){
 		
@@ -20,12 +21,6 @@ public class HomeController {
 		
 	}
 	
-	@RequestMapping(value="/team", method=RequestMethod.GET)
-	public ModelAndView showAboutPage(){
-		
-		ModelAndView model = new ModelAndView("team");
-		return model;
-		
-		
-	}
+	
+
 }

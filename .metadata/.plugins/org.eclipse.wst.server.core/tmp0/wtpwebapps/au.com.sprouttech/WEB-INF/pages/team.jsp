@@ -22,7 +22,7 @@
 
 
 
-</head>
+
 
 
 
@@ -38,7 +38,7 @@
 
 <!-- Bootstrap JQuery -->
 <script src="js/bootstrap.min.js"></script>
-
+</head>
 
 <body>
 
@@ -48,44 +48,15 @@
 
 		<header class="row ">
 
-			<div id="logo" style=""sprout.png""></div>
+			<div id="logo"></div>
 
 			<div class="menu">
 
 				<ul>
-
-					<li><button class="btn btn-default" id="menuBtn">About</button></li>
-					<li><a href="#"><button class="btn btn-default"
-								id="menuBtn">Projects</button></a></li>
-					<li><a href="#"><button class="btn btn-default"
-								id="menuBtn">Services</button></a></li>
-					<li><button class="btn btn-default" id="menuBtn"
-							data-toggle="modal" data-target="#myModal">Contact</button>
-						<!-- Modal -->
-						<div class="modal fade" id="myModal" tabindex="-1" role="dialog"
-							aria-labelledby="myModalLabel">
-							<div class="modal-dialog" role="document">
-								<div class="modal-content">
-									<div class="modal-header">
-										<button type="button" class="close" data-dismiss="modal"
-											aria-label="Close">
-											<span aria-hidden="true">&times;</span>
-										</button>
-										<h4 class="modal-title" id="myModalLabel">Modal title</h4>
-									</div>
-									<div class="modal-body">...</div>
-
-									<div class="modal-footer">
-										<button type="button" class="btn btn-default"
-											data-dismiss="modal">Close</button>
-										<button type="button" class="btn btn-primary">Save
-											changes</button>
-									</div>
-								</div>
-							</div>
-						</div></li>
-
-					<li></li>
+					<li><a href="home"><i class="fa fa-home fa-lg homeIcon"></i></a></li>
+					<li><a href="portfolio"><button class="btn btn-default " id="menuBtn" >Portfolio</button></a></li>
+					<li><a href="team"><button class="btn btn-default " id="menuBtn"  style="border:1px white solid;">Team Sprout</button></a></li>
+					<li><a href="contact"><button class="btn btn-default" id="menuBtn" >Contact</button></a></li>
 
 				</ul>
 
@@ -101,7 +72,7 @@
 
 
 
-		<div class="row profileSection" style="background-image: t.png;">
+		<div class="row profileSection">
 
 			<!-- right empty section -->
 			<div class="col-md-2"></div>
@@ -112,7 +83,7 @@
 
 					<!-- profile image holder-->
 					<div class="profileImage">
-						<img src="img.jpeg">
+						<img src="images/img.jpeg">
 					</div>
 
 					<!-- profile summary -->
@@ -142,7 +113,7 @@
 
 					<!-- profile image holder-->
 					<div class="profileImage">
-						<img src="img.jpeg">
+						<img src="images/img.jpeg">
 					</div>
 
 					<!-- profile summary -->
@@ -173,7 +144,7 @@
 
 					<!-- profile image holder-->
 					<div class="profileImage">
-						<img src="img.jpeg">
+						<img src="images/img.jpeg">
 					</div>
 
 					<!-- profile summary -->
@@ -208,11 +179,11 @@
 		</div>
 
 
+	
 		<!-- Made in Australia Section -->
 
 		<div class="madeInAus">
-			<div class="tradeMark"></div>
-			<p>MADE IN AUSTRALIA</p>
+
 
 		</div>
 		<!-- Footer Section -->
