@@ -67,7 +67,7 @@
 
 
 	<!--Main Body Section -->
-	<div class="row contactForm">
+	<div class=" contactForm">
 	<div class="row loveHear">We <i class="fa fa-heart heart"></i>LOVE TO HEAR FROM YOU</div>
 		<form role="form" id="contactForm">
 		

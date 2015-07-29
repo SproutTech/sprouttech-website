@@ -76,117 +76,64 @@
 
 
 
-		<div class="row profileSection">
+		<div class=" row ourWorkSection">
+			<div class="row pageTitle">WORK</div>
+			<div class="row pageSummary">Check out our latest work in
+				web/mobile app design & development.</div>
 
-			<!-- right empty section -->
-			<div class="col-md-2"></div>
-
-			<!--profile container-->
-			<div class=" col-md-8">
-				<div class="profileContainer">
-
-					<!-- profile image holder-->
-					<div class="profileImage">
-						<img src="images/img.jpeg">
+			<div class="row workContainer">
+				<div class="col-md-6 nopadding  project"
+					style="background-image: url(images/t1.png)">
+					<div class="greenLayer">
+						<div class="projectInfo">
+							Simply Awesome<br> <br> <br>
+							<button class="btn btn-default" id="menuBtn"
+								style="border: 1px solid white">View Project</button>
+						</div>
 					</div>
-
-					<!-- profile summary -->
-					<div class="profile">
-						<ul>
-							<li id="name">Rajesh Basnet</li>
-							<li id="title">FOUNDER</li>
-							<li id="summary">In todayâs ever-challenging job market,
-								job seekers must be on the hunt for new opportunities 24/7 to
-								maintain a competitive advantage over other top job
-								candidates.But to do so successfully, job seekers must have
-								constant access, both at home and on the go, to their social and
-							</li>
-							<li><button class="btn btn-primary btn-lg emailMe">SEND
-									ME AN EMAIL</button></li>
-							<li><ul class="socialIcon">
-									<li><i class="fa fa-linkedin-square fa-3x sc"></i></li>
-									<li><i class="fa fa-twitter-square fa-3x sc"></i></li>
-									<li><i class="fa fa-github-square fa-3x sc"></i></li>
-									<li><i class="fa fa-google-plus-square fa-3x sc"></i></li>
-								</ul></li>
-						</ul>
+				</div>
+				<div class="col-md-6 nopadding  project"
+					style="background-image: url(images/t2.png)">
+					<div class="greenLayer">
+						<div class="projectInfo">
+							Foos for All<br> <br> <br>
+							<button class="btn btn-default" id="menuBtn"
+								style="border: 1px solid white">View Project</button>
+						</div>
 					</div>
 				</div>
 
-				<div class="profileContainer">
-
-					<!-- profile image holder-->
-					<div class="profileImage">
-						<img src="images/img.jpeg">
-					</div>
-
-					<!-- profile summary -->
-					<div class="profile">
-						<ul>
-							<li id="name">Rajesh Basnet</li>
-							<li id="title">DESIGNER</li>
-							<li id="summary">In todayâs ever-challenging job market,
-								job seekers must be on the hunt for new opportunities 24/7 to
-								maintain a competitive advantage over other top job
-								candidates.But to do so successfully, job seekers must have
-								constant access, both at home and on the go, to their social and
-							</li>
-							<li><button class="btn btn-primary btn-lg emailMe">SEND
-									ME AN EMAIL</button></li>
-							<li><ul class="socialIcon">
-									<li><i class="fa fa-linkedin-square fa-3x sc"></i></li>
-									<li><i class="fa fa-twitter-square fa-3x sc"></i></li>
-									<li><i class="fa fa-github-square fa-3x sc"></i></li>
-									<li><i class="fa fa-google-plus-square fa-3x sc"></i></li>
-								</ul></li>
-						</ul>
-					</div>
-				</div>
-
-
-				<div class="profileContainer">
-
-					<!-- profile image holder-->
-					<div class="profileImage">
-						<img src="images/img.jpeg">
-					</div>
-
-					<!-- profile summary -->
-					<div class="profile">
-						<ul>
-							<li id="name">Rajesh Basnet</li>
-							<li id="title">DEVELOPER</li>
-							<li id="summary">In todayâs ever-challenging job market,
-								job seekers must be on the hunt for new opportunities 24/7 to
-								maintain a competitive advantage over other top job
-								candidates.But to do so successfully, job seekers must have
-								constant access, both at home and on the go, to their social and
-							</li>
-							<li><button class="btn btn-primary btn-lg emailMe">SEND
-									ME AN EMAIL</button></li>
-							<li><ul class="socialIcon">
-									<li><i class="fa fa-linkedin-square fa-3x sc"></i></li>
-									<li><i class="fa fa-twitter-square fa-3x sc"></i></li>
-									<li><i class="fa fa-github-square fa-3x sc"></i></li>
-									<li><i class="fa fa-google-plus-square fa-3x sc"></i></li>
-								</ul></li>
-						</ul>
-					</div>
-				</div>
 			</div>
+			<div class="row workContainer">
+				<div class="col-md-6 nopadding  project"
+					style="background-image: url(images/t3.png)">
+					<div class="greenLayer">
+						<div class="projectInfo">
+							Real Co<br> <br> <br>
+							<button class="btn btn-default" id="menuBtn"
+								style="border: 1px solid white">View Project</button>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 nopadding  project"
+					style="background-image: url(images/t2.png)">
+					<div class="greenLayer">
+						<div class="projectInfo">
+							Travel All Around<br> <br> <br>
+							<button class="btn btn-default" id="menuBtn"
+								style="border: 1px solid white">View Project</button>
+						</div>
+					</div>
+				</div>
 
-
-
-			<!-- Left empty section -->
-			<div class="col-md-2"></div>
-
+			</div>
 		</div>
 
-
+		<!-- End of main body  -->
 
 		<!-- Made in Australia Section -->
 
-		<div class="madeInAus"></div>
+
 		<!-- Footer Section -->
 		<div class="row">
 
@@ -229,7 +176,8 @@
 
 					<ul id="footerList">
 
-						<li><img id="footerLogo" src="images/sprout.png"></li>
+						<li><img id="footerLogo"
+							src="images/sprout.png"></li>
 						<li style="color: white;">Sydney, NSW 2220<br /> Phone:
 							0433371679<br /> Fax: 631-270-1502<br />
 							Email:info@sprouttech.com.au
@@ -263,6 +211,12 @@
 	<script>
 		function init() {
 			window.addEventListener('scroll', resize);
+			var projectList = document.getElementsByClassName("project");
+			for (var i = 0; i < projectList.length; i++) {
+				projectList[i].addEventListener("mouseover", mouseOver);
+				projectList[i].addEventListener("mouseout", mouseOut);
+
+			}
 		}
 		window.onload = init();
 	</script>
