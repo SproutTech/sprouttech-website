@@ -62,74 +62,75 @@
 		</div>
 
 		</header>
-	
-	<!-- End of Header -->
+
+		<!-- End of Header -->
 
 
-	<!--Main Body Section -->
-	<div class=" contactForm">
-	<div class="row loveHear">We <i class="fa fa-heart heart"></i>LOVE TO HEAR FROM YOU</div>
-		<form role="form" id="contactForm">
-		
-			<div class="row">
-				<div class="col-md-3"></div>
-				<div class="form-group col-md-6">
-					<label for="email">Name:</label> 
-					<input type="text"
-						class="form-control" id="sender" name="sender" placeholder="Enter password"><i class="icon-warning-sign errorSign" id="errorName"></i>
-				</div>
-				<div class="col-md-3">
-					
-					
-				</div>
+		<!--Main Body Section -->
+		<div class=" contactForm">
+			<div class="row loveHear">
+				We <i class="fa fa-heart heart"></i>LOVE TO HEAR FROM YOU
 			</div>
+			<form role="form" id="contactForm">
 
-			<div class="row">
-				<div class="col-md-3"></div>
-				<div class="form-group col-md-6">
-					<label for="email">Email address:</label> <input type="email"
-						class="form-control" id="email">
+				<div class="row">
+					<div class="col-md-3"></div>
+					<div class="form-group col-md-6">
+						<label for="email">Name:</label> <input type="text"
+							class="form-control" id="sender" name="sender"
+							placeholder="Enter password"><i
+							class="icon-warning-sign errorSign" id="errorName"></i>
+					</div>
+					<div class="col-md-3"></div>
 				</div>
-				<div class="col-md-3"></div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-3"></div>
-				<div class="form-group col-md-6">
-					<label for="email">Message:</label>
-					<textarea type="email" class="form-control" id="email" rows="20"></textarea>
+				<div class="row">
+					<div class="col-md-3"></div>
+					<div class="form-group col-md-6">
+						<label for="email">Email address:</label> <input type="text"
+							class="form-control"  name="senderEmail" id="senderEmail" placeholder="Enter email">
+					</div>
+					<div class="col-md-3"></div>
 				</div>
-				<div class="col-md-3"></div>
-			</div>
 
-
-			<div class="row">
-				<div class="col-md-3"></div>
-				<div class="col-md-6">
-					<button id="submit" type="submit" class="btn btn-lg submit">Submit</button>
-					<button id="reset" type="reset" class="btn btn-danger btn-lg reset">Reset</button>
+				<div class="row">
+					<div class="col-md-3"></div>
+					<div class="form-group col-md-6">
+						<label for="email">Message:</label>
+						<textarea type="email" class="form-control" id="email" rows="20"></textarea>
+					</div>
+					<div class="col-md-3"></div>
 				</div>
-				<div class="col-md-3"></div>
-			</div>
-
-		</form>
 
 
+				<div class="row">
+					<div class="col-md-3"></div>
+					<div class="col-md-6">
+						<button id="submit" type="submit" class="btn btn-lg submit">Submit</button>
+						<button id="reset" type="reset"
+							class="btn btn-danger btn-lg reset">Reset</button>
+					</div>
+					<div class="col-md-3"></div>
+				</div>
+
+			</form>
 
 
 
 
 
 
+
+
+
+		</div>
+
+
+
+
+		<!-- Made in Australia Section -->
 
 	</div>
-
-
-
-
-	<!-- Made in Australia Section -->
-
-</div>
 	<!-- Footer Section -->
 	<div class="row">
 
@@ -202,10 +203,10 @@
 	<script src="javaScript/bootstrap.min.js"></script>
 
 	<script>
-	
 		function init() {
 			window.addEventListener('scroll', resize);
-			document.getElementById("submit").addEventListener('click',validateContactForm);
+			document.getElementById("submit").addEventListener('click',
+					validateContactForm);
 		}
 		window.onload = init();
 	</script>
