@@ -83,8 +83,7 @@
 
 			<div class="row workContainer">
 				<div class="col-md-6 nopadding  project"
-					style="background-image: url(images/t1.png)">
-					<div class="greenLayer">
+					style="background-image: url(images/t1.png)"><div class="greenLayer">
 						<div class="projectInfo">
 							Simply Awesome<br> <br> <br>
 							<button class="btn btn-default" id="menuBtn"
