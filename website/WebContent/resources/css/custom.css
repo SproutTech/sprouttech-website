@@ -8,6 +8,11 @@
 	here
 }
 
+@font-face {
+	font-family: test;
+	src: url('../fonts/Quicksand-Light.ttf');
+}
+
 /* Body background */
 body {
 	background-image: url("../images/t.png");
@@ -74,10 +79,12 @@ header.smaller .menu {
 }
 
 .menu>ul>li {
-	color: white;
+	font-family: Quicksand;
+	font-weight: 400; color : white;
 	display: inline;
 	list-style-type: none;
-	padding: 8px
+	padding: 8px;
+	color: white;
 }
 
 #menuBtn {
@@ -132,7 +139,7 @@ a {
 
 #footerAboutServices>li {
 	color: #ABABAB;
-	font-family: Vollkorn;
+	font-family: Quicksand;;
 	list-style-type: none;
 	overflow: hidden;
 	padding: 10px;
@@ -149,7 +156,7 @@ a {
 
 #footerList>li {
 	color: #ABABAB;
-	font-family: Vollkorn;
+	font-family: Quicksand;;
 	list-style-type: none;
 	overflow: hidden;
 	padding: 10px;
@@ -168,6 +175,7 @@ a {
 }
 
 #copyrights {
+	font-family: Quicksand;
 	color: #ABABAB;
 	list-style-type: none;
 	margin-right: 20px;
@@ -191,11 +199,10 @@ a {
 /* Feature section */
 .featureWrapper {
 	color: #6A6A6A;
-	font-family: Vollkorn;
 	font-size: 12pt;
 	letter-spacing: .1px;
 	margin-top: 50px;
-	margin-bottom: 50px;
+	margin-bottom: 100px;
 }
 
 #feature {
@@ -204,18 +211,43 @@ a {
 	text-align: center;
 }
 
-#feature>img {
-	height: 70px;
-	margin-bottom: 20px;
-	vertical-align: center;
-	width: 70px;
+.featureHeader {
+	text-align: center;
+	font-size: 22pt;
+	letter-spacing: 2px;
+	font-weight: 600;
+	color: #444444;
 }
 
+#feature>img {
+	height: 80px;
+	margin-bottom: 20px;
+	vertical-align: center;
+	width: 80px;
+}
+
+.headd {
+	font-family: Vollkorn; font-size : 18pt;
+	color: #f16521;
+	font-weight: 600;
+	letter-spacing: 1.5px;
+	font-size: 18pt;
+}
+
+.brief {
+	font-family: Quicksand;
+	margin-top: 7px;
+	color: #444444;
+	font-size: 12pt;
+	font-weight: 600;
+	text-align: justify;
+	line-height: 25px;
+}
 /* our team specific */
 .profileSection {
 	margin-top: 130px;
 	min-height: 80%;
-	margin-bottom: 50px;
+	margin-bottom: 100px;
 }
 
 .profileContainer {
@@ -254,10 +286,11 @@ a {
 }
 
 .profile>ul>li {
-	padding: 5px;
+	
 }
 
 #name {
+	font-family:Vollkorn;
 	color: #444444;
 	font-size: 22pt;
 	font-weight: 700;
@@ -265,23 +298,27 @@ a {
 }
 
 #title {
+	font-family:Vollkorn;
 	color: #888888;
 	font-size: 16pt;
-	font-weight: 400;
+	font-weight: bold;
 	letter-spacing: 1.5px;
+	color: #f16521;
 }
 
 #summary {
+	font-family:Quicksand;
 	color: #444444;
 	font-size: 12pt;
-	font-weight: thin;
+	font-weight: 400;
 	letter-spacing: 1.5px;
-	line-height: 20px;
-	margin-top: 10px;
+	line-height: 25px;
+	margin-top: 15px;
 	text-align: justify;
 }
 
 .emailMe {
+	font-family:Vollkorn;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	border: none;

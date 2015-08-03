@@ -17,7 +17,9 @@
 <link href='http://fonts.googleapis.com/css?family=Vollkorn'
 	rel='stylesheet' type='text/css'>
 
-
+<link
+	href='http://fonts.googleapis.com/css?family=Quicksand|Open+Sans:400,600,800'
+	rel='stylesheet' type='text/css'>
 
 <!-- js -->
 
@@ -64,10 +66,11 @@
 
 		<!-- Feature Section -->
 		<div class=" row featureWrapper">
-
+			<!--  <div class="col-md-12 featureHeader">How we deliver a beautiful digital product  </div>-->
 			<div class="col-md-4 col-sm-12" id="feature">
-				<img src="images/ebay.png">
-				<div>
+				<img src="images/idea.png">
+				<div class="headd">EXPLORE IDEAS</div>
+				<div class="brief">
 					If you are not on the web, you are missing one of the most powerful
 					tool of marketing. The trend of getting information has been
 					changed over time. We can make your presence on the web with
@@ -79,18 +82,24 @@
 
 
 			<div class="col-md-4 col-sm-12" id="feature">
-				<img src="images//facebook.png">
-				<div>Our design presents your norms and values to deliver real
-					yourself to your customers.</div>
+				<img src="images/development.png">
+				<div class="headd">DESIGN & DEVELOPMENT</div>
+				<div class="brief">Our design presents your norms and values
+					to deliver real yourself to your customers.This is a sample
+					application demonstrating how to build a CRUD application with
+					AngularThis is a sample application demonstrating how to build a
+					CRUD application with Angularf.</div>
 			</div>
 
 
 			<div class="col-md-4 col-sm-12" id="feature">
-				<img src="images/email.png">
-				<div>This is a sample application demonstrating how to build a
-					CRUD application with Angular.js and RESTful services. Select a
-					wine in the list on the left ro edit the details, or click the New
-					Wine button to add a wine to your Wine Cellar.</div>
+				<img src="images/globe.png">
+				<div class="headd">HELLO WORLD !</div>
+				<div class="brief">This is a sample application demonstrating
+					how to build a CRUD application with Angular.js and RESTful
+					services. Select a wine in the list on the left ro edit the
+					details, or click the New Wine button to add a wine to your Wine
+					Cellar.</div>
 			</div>
 
 		</div>
@@ -110,13 +119,11 @@
 					<ul id="footerAboutServices" style="text-align: left;">
 						<li><span style="font-size: 18pt; font-weight: bold;">About
 								Sprout</span></li>
-						<li>This is a sample application demonstrating how to build a
-							CRUD application with Angular.js and RESTful services. Select a
-							wine in the list on the left ro edit the details, or click the
-							New Wine button to add a wine to your Wine Cellar.If you are not
-							on the web, you are missing one of the most powerful tool of
-							marketing. The trend of getting information has been changed over
-							time. We can</li>
+						<li>Sprout tech is a small team on mission to boost the web
+							presence of small- medium business. Web aim to design & develop
+							simple, elegant and effective web solution. We help you to land
+							on world of internet to share people resources and technology to
+							accelerate your success. Your satisfaction is our goal.</li>
 					</ul>
 				</div>
 

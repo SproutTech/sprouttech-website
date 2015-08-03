@@ -1,6 +1,7 @@
 
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <html>
 
 
@@ -19,25 +20,10 @@
 <!-- Web fonts -->
 <link href='http://fonts.googleapis.com/css?family=Vollkorn'
 	rel='stylesheet' type='text/css'>
+<link
+	href='http://fonts.googleapis.com/css?family=Quicksand|Open+Sans:400,600,800'
+	rel='stylesheet' type='text/css'>
 
-
-
-
-
-
-
-
-
-
-
-
-<!-- JavaScript & JQuery -->
-<script
-	src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-
-
-<!-- Bootstrap JQuery -->
-<script src="js/bootstrap.min.js"></script>
 </head>
 
 <body>
@@ -78,101 +64,41 @@
 
 		<div class="row profileSection">
 
+
+
 			<!-- right empty section -->
 			<div class="col-md-2"></div>
 
 			<!--profile container-->
+
 			<div class=" col-md-8">
-				<div class="profileContainer">
+				<c:forEach items="${staffs}" var="staff">
+					<div class="profileContainer">
 
-					<!-- profile image holder-->
-					<div class="profileImage">
-						<img src="images/img.jpeg">
+
+						<!-- profile image holder-->
+						<div class="profileImage">
+							<img src="<c:out value="${staff.imagePath}"/>">
+						</div>
+
+						<!-- profile summary -->
+						<div class="profile">
+							<ul>
+								<li id="name"><c:out value="${staff.firstName} ${staff.lastName}"/></li>
+								<li id="title"><c:out value="${staff.position}"/></li>
+								<li id="summary"><c:out value="${staff.summary}"/></li>
+								<li><button class="btn btn-primary btn-lg emailMe">SEND
+										ME AN EMAIL</button></li>
+								<li><ul class="socialIcon">
+										<li><i class="fa fa-linkedin-square fa-3x sc"></i></li>
+										<li><i class="fa fa-twitter-square fa-3x sc"></i></li>
+										<li><i class="fa fa-github-square fa-3x sc"></i></li>
+										<li><i class="fa fa-google-plus-square fa-3x sc"></i></li>
+									</ul></li>
+							</ul>
+						</div>
 					</div>
-
-					<!-- profile summary -->
-					<div class="profile">
-						<ul>
-							<li id="name">Rajesh Basnet</li>
-							<li id="title">FOUNDER</li>
-							<li id="summary">In todayâs ever-challenging job market,
-								job seekers must be on the hunt for new opportunities 24/7 to
-								maintain a competitive advantage over other top job
-								candidates.But to do so successfully, job seekers must have
-								constant access, both at home and on the go, to their social and
-							</li>
-							<li><button class="btn btn-primary btn-lg emailMe">SEND
-									ME AN EMAIL</button></li>
-							<li><ul class="socialIcon">
-									<li><i class="fa fa-linkedin-square fa-3x sc"></i></li>
-									<li><i class="fa fa-twitter-square fa-3x sc"></i></li>
-									<li><i class="fa fa-github-square fa-3x sc"></i></li>
-									<li><i class="fa fa-google-plus-square fa-3x sc"></i></li>
-								</ul></li>
-						</ul>
-					</div>
-				</div>
-
-				<div class="profileContainer">
-
-					<!-- profile image holder-->
-					<div class="profileImage">
-						<img src="images/img.jpeg">
-					</div>
-
-					<!-- profile summary -->
-					<div class="profile">
-						<ul>
-							<li id="name">Rajesh Basnet</li>
-							<li id="title">DESIGNER</li>
-							<li id="summary">In todayâs ever-challenging job market,
-								job seekers must be on the hunt for new opportunities 24/7 to
-								maintain a competitive advantage over other top job
-								candidates.But to do so successfully, job seekers must have
-								constant access, both at home and on the go, to their social and
-							</li>
-							<li><button class="btn btn-primary btn-lg emailMe">SEND
-									ME AN EMAIL</button></li>
-							<li><ul class="socialIcon">
-									<li><i class="fa fa-linkedin-square fa-3x sc"></i></li>
-									<li><i class="fa fa-twitter-square fa-3x sc"></i></li>
-									<li><i class="fa fa-github-square fa-3x sc"></i></li>
-									<li><i class="fa fa-google-plus-square fa-3x sc"></i></li>
-								</ul></li>
-						</ul>
-					</div>
-				</div>
-
-
-				<div class="profileContainer">
-
-					<!-- profile image holder-->
-					<div class="profileImage">
-						<img src="images/img.jpeg">
-					</div>
-
-					<!-- profile summary -->
-					<div class="profile">
-						<ul>
-							<li id="name">Rajesh Basnet</li>
-							<li id="title">DEVELOPER</li>
-							<li id="summary">In todayâs ever-challenging job market,
-								job seekers must be on the hunt for new opportunities 24/7 to
-								maintain a competitive advantage over other top job
-								candidates.But to do so successfully, job seekers must have
-								constant access, both at home and on the go, to their social and
-							</li>
-							<li><button class="btn btn-primary btn-lg emailMe">SEND
-									ME AN EMAIL</button></li>
-							<li><ul class="socialIcon">
-									<li><i class="fa fa-linkedin-square fa-3x sc"></i></li>
-									<li><i class="fa fa-twitter-square fa-3x sc"></i></li>
-									<li><i class="fa fa-github-square fa-3x sc"></i></li>
-									<li><i class="fa fa-google-plus-square fa-3x sc"></i></li>
-								</ul></li>
-						</ul>
-					</div>
-				</div>
+				</c:forEach>
 			</div>
 
 
@@ -200,13 +126,11 @@
 
 						<li><span style="font-size: 18pt; font-weight: bold;">About
 								Sprout</span></li>
-						<li>This is a sample application demonstrating how to build a
-							CRUD application with Angular.js and RESTful services. Select a
-							wine in the list on the left ro edit the details, or click the
-							New Wine button to add a wine to your Wine Cellar.If you are not
-							on the web, you are missing one of the most powerful tool of
-							marketing. The trend of getting information has been changed over
-							time. We can</li>
+						<li>Sprout tech is a small team on mission to boost the web
+							presence of small- medium business. Web aim to design & develop
+							simple, elegant and effective web solution. We help you to land
+							on world of internet to share people resources and technology to
+							accelerate your success. Your satisfaction is our goal.</li>
 					</ul>
 				</div>
 
@@ -256,6 +180,15 @@
 
 
 	<!-- Js -->
+
+
+
+	<!-- JavaScript & JQuery -->
+	<script
+		src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+	<!-- Bootstrap JQuery -->
+	<script src="js/bootstrap.min.js"></script>
 	<script src="javaScript/myjs.js"></script>
 	<script src="javaScript/classie.js"></script>
 	<script src="javaScript/bootstrap.min.js"></script>

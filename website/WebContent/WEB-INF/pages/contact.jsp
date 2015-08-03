@@ -26,6 +26,9 @@
 <link href='http://fonts.googleapis.com/css?family=Vollkorn'
 	rel='stylesheet' type='text/css'>
 
+<link
+	href='http://fonts.googleapis.com/css?family=Quicksand|Open+Sans:400,600,800'
+	rel='stylesheet' type='text/css'>
 
 
 <!-- JavaScript & JQuery -->
@@ -131,65 +134,69 @@
 		<!-- Made in Australia Section -->
 
 	</div>
-	<!-- Footer Section -->
-	<div class="row">
+	
+<!-- Footer Section -->
+		<div class="row">
 
-		<footer class="footer"> <!-- About us-->
+			<footer class="footer">
 
-		<div class="col-md-4">
-			<ul id="footerAboutServices" style="text-align: left;">
 
-				<li><span style="font-size: 18pt; font-weight: bold;">About
-						Sprout</span></li>
-				<li>This is a sample application demonstrating how to build a
-					CRUD application with Angular.js and RESTful services. Select a
-					wine in the list on the left ro edit the details, or click the New
-					Wine button to add a wine to your Wine Cellar.If you are not on the
-					web, you are missing one of the most powerful tool of marketing.
-					The trend of getting information has been changed over time. We can</li>
-			</ul>
+				<!-- About us-->
+
+				<div class="col-md-4">
+					<ul id="footerAboutServices" style="text-align: left;">
+						<li><span style="font-size: 18pt; font-weight: bold;">About
+								Sprout</span></li>
+						<li>Sprout tech is a small team on mission to boost the web
+							presence of small- medium business. Web aim to design & develop
+							simple, elegant and effective web solution. We help you to land
+							on world of internet to share people resources and technology to
+							accelerate your success. Your satisfaction is our goal.</li>
+					</ul>
+				</div>
+
+
+				<!-- Services -->
+
+				<div class="col-md-4">
+					<ul id="footerAboutServices" style="text-align: left;">
+						<li><span style="font-size: 18pt; font-weight: bold;">Services</span>
+						</li>
+						<li style="border-bottom: 1px solid grey;">Web Design</li>
+						<li style="border-bottom: 1px solid grey;">Web Development</li>
+						<li style="border-bottom: 1px solid grey;">Application
+							Development</li>
+					</ul>
+				</div>
+
+
+				<!--Contacts-->
+
+				<div class="col-md-4">
+					<ul id="footerList">
+						<li><img id="footerLogo" src="images/sprout.png"></li>
+						<li style="color: white;">Sydney, NSW 2220<br /> Phone:
+							0433371679<br /> Fax: 631-270-1502<br />
+							Email:info@sprouttech.com.au
+						</li>
+					</ul>
+				</div>
+
+
+			</footer>
 		</div>
 
-		<!-- Services -->
-		<div class="col-md-4">
+		<!-- Copy Rights Section -->
 
-			<ul id="footerAboutServices" style="text-align: left;">
-				<li><span style="font-size: 18pt; font-weight: bold;">Services</span></li>
-				<li style="border-bottom: 1px solid grey;">Web Design</li>
-				<li style="border-bottom: 1px solid grey;">Web Development</li>
-				<li style="border-bottom: 1px solid grey;">Application
-					Development</li>
+		<div class="row cr-section">
 
-			</ul>
-		</div>
-
-
-		<!--Contacts-->
-		<div class="col-md-4">
-
-			<ul id="footerList">
-
-				<li><img id="footerLogo" src="images/sprout.png"></li>
-				<li style="color: white;">Sydney, NSW 2220<br /> Phone:
-					0433371679<br /> Fax: 631-270-1502<br />
-					Email:info@sprouttech.com.au
+			<ul id="copyrights">
+				<li>Copyright 2015 <span
+					style="color: #f16521; font-weight: bold;">Sprout</span>Tech | All
+					Rights Reserved | Privacy Policy | Terms and Conditions
 				</li>
 			</ul>
 		</div>
-		</footer>
-	</div>
-
-	<!-- Copy Rights Section -->
-
-	<div class="row cr-section">
-
-		<ul id="copyrights">
-			<li>Copyright 2015 <span
-				style="color: #f16521; font-weight: bold;">Sprout</span>Tech | All
-				Rights Reserved | Privacy Policy | Terms and Conditions
-			</li>
-		</ul>
-	</div>
 
 
 	</div>
