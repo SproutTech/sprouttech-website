@@ -18,11 +18,62 @@ function resize(e) {
 function validateContactForm(e) {
 
 	var myForm = document.forms.contactForm;
+	
+	
 	var senderName = myForm.sender.value;
+	
+	
+	
+	if(senderName!="" && senderName!=null){
+		
+		var namePattern =/^[A-Za-z\s]+$/;
+			
+			if(namePattern.test(senderName)){
+				var checkName="true";
+				myForm.sender.style.border="none";
+			}
+			else{
+				myForm.sender.style.border="1px red solid";
+				myForm.sender.placeholder="Please enter the valid name";
+				myForm.sender.value="";
+			}
+	}
+	else{
+		myForm.sender.style.border="1px red solid";
+		myForm.sender.placeholder="Please enter the name";
+		
+	}
+	
 
-	document.getElementById("errorName").style.display = "block";
-	document.getElementById("errorName").innerHTML = "Error in name";
+	var senderEmail=myForm.senderEmail.value;
+	
+	
+	if(senderEmail!="" && senderEmail!=null){
+		
+		var namePattern =/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+			
+			if(namePattern.test(senderEmail)){
+				var checkName="true";
+				myForm.senderEmail.style.border="none";
+			}
+			else{
+				myForm.senderEmail.style.border="1px red solid";
+				myForm.senderEmail.placeholder="Please enter the valid email";
+				myForm.senderEmail.value="";
+			}
+	}
+	else{
+		myForm.senderEmail.style.border="1px red solid";
+		myForm.senderEmail.placeholder="Please enter the email";
+		
+	}
 
+	
+	
+	/*document.getElementById("sender").placeholder = "Please enter the name";
+	document.getElementById("sender").placeholder.color="red"; 
+	
+	document.getElementById("sender").style.border="1px red solid";*/
 	event.preventDefault();
 
 }
