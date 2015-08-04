@@ -4,9 +4,7 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 
-	<bean id="user" class="au.com.sprouttech.util.User">
-		<property name="name" value="rajesh"></property>
-	</bean>
+	
 	
 	
 	<bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">  

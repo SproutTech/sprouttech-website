@@ -6,7 +6,6 @@ import au.com.sprouttech.models.Project;
 
 public interface ProjectInterface {
 
-	
 	public ArrayList<Project> getAll();
 
 }

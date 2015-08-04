@@ -80,7 +80,8 @@ header.smaller .menu {
 
 .menu>ul>li {
 	font-family: Quicksand;
-	font-weight: 400; color : white;
+	font-weight: 400;
+	color: white;
 	display: inline;
 	list-style-type: none;
 	padding: 8px;
@@ -227,7 +228,8 @@ a {
 }
 
 .headd {
-	font-family: Vollkorn; font-size : 18pt;
+	font-family: Vollkorn;
+	font-size: 18pt;
 	color: #f16521;
 	font-weight: 600;
 	letter-spacing: 1.5px;
@@ -245,15 +247,14 @@ a {
 }
 /* our team specific */
 .profileSection {
-	margin-top: 130px;
-	min-height: 80%;
-	margin-bottom: 100px;
+	margin-top: 160px;
+	min-height: 70%;
+	margin-bottom: 50px;
 }
 
 .profileContainer {
 	height: 350px;
 	margin-bottom: 80px;
-	margin-top: 50px;
 }
 
 .profileImage {
@@ -285,12 +286,12 @@ a {
 	margin-top: 10px;
 }
 
-.profile>ul>li {
-	
+.profile>ul>li>a {
+	text-decoration: none;
 }
 
 #name {
-	font-family:Vollkorn;
+	font-family: Vollkorn;
 	color: #444444;
 	font-size: 22pt;
 	font-weight: 700;
@@ -298,7 +299,7 @@ a {
 }
 
 #title {
-	font-family:Vollkorn;
+	font-family: Vollkorn;
 	color: #888888;
 	font-size: 16pt;
 	font-weight: bold;
@@ -307,7 +308,7 @@ a {
 }
 
 #summary {
-	font-family:Quicksand;
+	font-family: Quicksand;
 	color: #444444;
 	font-size: 12pt;
 	font-weight: 400;
@@ -318,7 +319,7 @@ a {
 }
 
 .emailMe {
-	font-family:Vollkorn;
+	font-family: Vollkorn;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	border: none;
@@ -349,6 +350,11 @@ a {
 	margin-right: 20px;
 }
 
+.socialIcon>li>a {
+	text-decoration: none;
+	color: inherit;
+}
+
 .sc {
 	font-size: 80px;
 }
@@ -372,9 +378,9 @@ a {
 
 /* Contact page */
 .contactForm {
-	margin-top: 180px;
+	margin-top: 160px;
 	min-height: 70%;
-	height: 780px;
+	margin-bottom: 50px;
 }
 
 .submit {
@@ -399,8 +405,10 @@ a {
 
 .errorSign {
 	color: red;
-	display: none;
-	margin: 0 auto;
+	float:right;;
+	margin:0 auto;
+	display:inline;
+	margin-top:0;
 }
 
 .sender {
@@ -487,4 +495,18 @@ a {
 	margin-top: 80px;;
 	color: white;
 	display: none;
+}
+
+.float-right {
+	float: right;
+}
+
+.border-bottom {
+	height: 1px;
+	width: 100%;
+	border-bottom: 1px grey solid;
+}
+
+.contactPage {
+	font-size: 14pt;
 }

@@ -18,63 +18,133 @@ function resize(e) {
 function validateContactForm(e) {
 
 	var myForm = document.forms.contactForm;
-	
-	
-	var senderName = myForm.sender.value;
-	
-	
-	
-	if(senderName!="" && senderName!=null){
-		
-		var namePattern =/^[A-Za-z\s]+$/;
-			
-			if(namePattern.test(senderName)){
-				var checkName="true";
-				myForm.sender.style.border="none";
-			}
-			else{
-				myForm.sender.style.border="1px red solid";
-				myForm.sender.placeholder="Please enter the valid name";
-				myForm.sender.value="";
-			}
-	}
-	else{
-		myForm.sender.style.border="1px red solid";
-		myForm.sender.placeholder="Please enter the name";
-		
-	}
-	
 
-	var senderEmail=myForm.senderEmail.value;
-	
-	
-	if(senderEmail!="" && senderEmail!=null){
-		
-		var namePattern =/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
-			
-			if(namePattern.test(senderEmail)){
-				var checkName="true";
-				myForm.senderEmail.style.border="none";
-			}
-			else{
-				myForm.senderEmail.style.border="1px red solid";
-				myForm.senderEmail.placeholder="Please enter the valid email";
-				myForm.senderEmail.value="";
-			}
-	}
-	else{
-		myForm.senderEmail.style.border="1px red solid";
-		myForm.senderEmail.placeholder="Please enter the email";
-		
+	var sender = myForm.sender.value;
+	var email = myForm.email.value;
+	var subject = myForm.subject.value;
+	var message = myForm.message.value;
+
+	var isValidSender = checkSender(sender);
+	var isValidEmail = checkEmail(email);
+	var isValidSubject = checkSubject(subject);
+	var isValidMessage = checkMessage(message);
+
+	if (isValidSender === "false" || isValidEmail === "false" || isValidSubject=="false"||isValidMessage=="false") {
+		event.preventDefault();
+
 	}
 
+	function checkSender(sender) {
+
+		if (sender != "" && sender != null) {
+
+			var namePattern = /^[A-Za-z\s]+$/;
+
+			if (namePattern.test(sender)) {
+
+				myForm.sender.style.border = "none";
+				return "true";
+			} else {
+				myForm.sender.style.border = "1px red solid";
+				myForm.sender.placeholder = "Please enter the valid name";
+				myForm.errorSign.style.display="block";
+				myForm.sender.value = "";
+				return "false";
+			}
+		} else {
+
+			myForm.sender.style.border = "1px red solid";
+			myForm.sender.placeholder = "Please enter the name";
+			return "false";
+		}
+
+	}
+
+	function checkEmail(email) {
+
+		if (email != "" && email != null) {
+
+			var namePattern = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+
+			if (namePattern.test(email)) {
+
+				myForm.email.style.border = "none";
+				return "true";
+			}
+
+			else {
+				myForm.email.style.border = "1px red solid";
+				myForm.email.placeholder = "Please enter the valid email";
+				myForm.email.value = "";
+				return "false";
+			}
+
+		}
+
+		else {
+
+			myForm.email.style.border = "1px red solid";
+			myForm.email.placeholder = "Please enter the email";
+			return "false";
+		}
+
+	}
 	
 	
-	/*document.getElementById("sender").placeholder = "Please enter the name";
-	document.getElementById("sender").placeholder.color="red"; 
+	function checkSubject(subject) {
+
+		if (subject != "" && subject != null) {
+
+			var namePattern = /^[A-Za-z0-9\s]{5,}$/;
+
+			if (namePattern.test(subject)) {
+
+				myForm.subject.style.border = "none";
+				return "true";
+			} else {
+				myForm.subject.style.border = "1px red solid";
+				myForm.subject.placeholder = "Please enter the valid subject";
+				myForm.subject.value = "";
+				return "false";
+			}
+		} else {
+
+			myForm.subject.style.border = "1px red solid";
+			myForm.subject.placeholder = "Please enter the subject";
+			return "false";
+		}
+
+	}
 	
-	document.getElementById("sender").style.border="1px red solid";*/
-	event.preventDefault();
+	
+	
+	function checkMessage(message) {
+
+		if (message != "" && message != null) {
+
+			var namePattern = /^[A-Za-z0-9\s]+$/;
+
+			if (namePattern.test(message)) {
+
+				myForm.message.style.border = "none";
+				return "true";
+			} else {
+				myForm.message.style.border = "1px red solid";
+				myForm.message.placeholder = "Please enter the valid message";
+				myForm.message.value = "";
+				return "false";
+			}
+		} else {
+
+			myForm.message.style.border = "1px red solid";
+			myForm.message.placeholder = "Please enter the message";
+			return "false";
+		}
+
+	}
+
+
+	
 
 }
 

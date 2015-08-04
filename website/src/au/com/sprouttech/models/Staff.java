@@ -17,7 +17,7 @@ public class Staff {
 	public Staff() {
 
 	}
-	
+
 	public String getId() {
 		return id;
 	}
@@ -105,7 +105,5 @@ public class Staff {
 	public void setImagePath(String imagePath) {
 		this.imagePath = imagePath;
 	}
-
-	
 
 }
