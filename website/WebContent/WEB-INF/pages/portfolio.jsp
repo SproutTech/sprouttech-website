@@ -83,7 +83,8 @@
 
 			<div class="row workContainer">
 				<div class="col-md-6 nopadding  project"
-					style="background-image: url(images/t1.png)"><div class="greenLayer">
+					style="background-image: url(images/t1.png)">
+					<div class="greenLayer">
 						<div class="projectInfo">
 							Simply Awesome<br> <br> <br>
 							<button class="btn btn-default" id="menuBtn"
@@ -175,8 +176,7 @@
 
 					<ul id="footerList">
 
-						<li><img id="footerLogo"
-							src="images/sprout.png"></li>
+						<li><img id="footerLogo" src="images/sprout.png"></li>
 						<li style="color: white;">Sydney, NSW 2220<br /> Phone:
 							0433371679<br /> Fax: 631-270-1502<br />
 							Email:info@sprouttech.com.au
