@@ -71,116 +71,124 @@
 
 		<!--Main Body Section -->
 		<div class=" contactForm">
-			<div class="row loveHear">
-				We <i class="fa fa-heart heart"></i>LOVE TO HEAR FROM YOU
-			</div>
-			<form role="form" id="contactForm">
+			<form role="form" id="contactForm" action="send" method="POST">
 
 				<div class="row">
-					<div class="col-md-3"></div>
-					<div class="form-group col-md-6">
-						<label for="email">Name:</label> <input type="text"
-							class="form-control" id="sender" name="sender"
-							placeholder="Enter password"><i
-							class="icon-warning-sign errorSign" id="errorName"></i>
+					<div class="col-md-1"></div>
+					<div class=col-md-6>
+						<div class="headd">Contact us</div>
+						<div class="brief">
+							We<i class="fa fa-heart heart"></i> to hear from you or answer to
+							any question you have.Please just send us a message in form below
+							and we promise to respond within 24 hrs.Alternatevely, why not
+							say hi over phone ?
+						</div>
+
+						<br>
+						<div class="form-group ">
+							<label for="email">Name:</label> <input type="text"
+								class="form-control test" id="sender" name="sender"
+								placeholder="Enter password">
+								
+						</div>
+						<div class="form-group ">
+							<label for="email">Email address:</label> <input type="text"
+								class="form-control" name="email" id="email"
+								placeholder="Enter email">
+						</div>
+						<div class="form-group ">
+							<label for="email">Subject:</label> <input type="text"
+								class="form-control" name="subject" id="subject"
+								placeholder="Enter email">
+						</div>
+						<div class="form-group ">
+							<label for="email">Message:</label>
+							<textarea type="text" class="form-control" id="message"
+								name="message" rows="10"></textarea>
+						</div>
+						<div class="">
+							<button id="submit" type="submit" class="btn btn-lg submit">Submit</button>
+							<button id="reset" type="reset"
+								class="btn btn-danger btn-lg reset">Reset</button>
+						</div>
 					</div>
-					<div class="col-md-3"></div>
-				</div>
+					<div class="col-md-2"></div>
+					<div class="col-md-2">
+						<div class="headd float-right contactPage">Email</div>
+						<br>
+						<hr class="border-bottom">
+						<div class="brief float-right">infor@sprouttech.com.au</div>
+						<div class="headd float-right contactPage ">Phone</div>
+						<br>
+						<hr class="border-bottom">
+						<div class="brief float-right">+61433371679</div>
 
-				<div class="row">
-					<div class="col-md-3"></div>
-					<div class="form-group col-md-6">
-						<label for="email">Email address:</label> <input type="text"
-							class="form-control"  name="senderEmail" id="senderEmail" placeholder="Enter email">
 					</div>
-					<div class="col-md-3"></div>
+
+					<div class="col-md-1"></div>
 				</div>
-
-				<div class="row">
-					<div class="col-md-3"></div>
-					<div class="form-group col-md-6">
-						<label for="email">Message:</label>
-						<textarea type="email" class="form-control" id="email" rows="20"></textarea>
-					</div>
-					<div class="col-md-3"></div>
-				</div>
-
-
-				<div class="row">
-					<div class="col-md-3"></div>
-					<div class="col-md-6">
-						<button id="submit" type="submit" class="btn btn-lg submit">Submit</button>
-						<button id="reset" type="reset"
-							class="btn btn-danger btn-lg reset">Reset</button>
-					</div>
-					<div class="col-md-3"></div>
-				</div>
-
 			</form>
-
-
-
-
-
-
-
-
 
 		</div>
 
 
 
 
+
+
+
+
+
+
+
+
 		<!-- Made in Australia Section -->
 
-	</div>
-	
-<!-- Footer Section -->
+
+
+		<!-- Footer Section -->
 		<div class="row">
 
-			<footer class="footer">
+			<footer class="footer"> <!-- About us-->
+
+			<div class="col-md-4">
+				<ul id="footerAboutServices" style="text-align: left;">
+					<li><span style="font-size: 18pt; font-weight: bold;">About
+							Sprout</span></li>
+					<li>Sprout tech is a small team on mission to boost the web
+						presence of small- medium business. Web aim to design & develop
+						simple, elegant and effective web solution. We help you to land on
+						world of internet to share people resources and technology to
+						accelerate your success. Your satisfaction is our goal.</li>
+				</ul>
+			</div>
 
 
-				<!-- About us-->
+			<!-- Services -->
 
-				<div class="col-md-4">
-					<ul id="footerAboutServices" style="text-align: left;">
-						<li><span style="font-size: 18pt; font-weight: bold;">About
-								Sprout</span></li>
-						<li>Sprout tech is a small team on mission to boost the web
-							presence of small- medium business. Web aim to design & develop
-							simple, elegant and effective web solution. We help you to land
-							on world of internet to share people resources and technology to
-							accelerate your success. Your satisfaction is our goal.</li>
-					</ul>
-				</div>
-
-
-				<!-- Services -->
-
-				<div class="col-md-4">
-					<ul id="footerAboutServices" style="text-align: left;">
-						<li><span style="font-size: 18pt; font-weight: bold;">Services</span>
-						</li>
-						<li style="border-bottom: 1px solid grey;">Web Design</li>
-						<li style="border-bottom: 1px solid grey;">Web Development</li>
-						<li style="border-bottom: 1px solid grey;">Application
-							Development</li>
-					</ul>
-				</div>
+			<div class="col-md-4">
+				<ul id="footerAboutServices" style="text-align: left;">
+					<li><span style="font-size: 18pt; font-weight: bold;">Services</span>
+					</li>
+					<li style="border-bottom: 1px solid grey;">Web Design</li>
+					<li style="border-bottom: 1px solid grey;">Web Development</li>
+					<li style="border-bottom: 1px solid grey;">Application
+						Development</li>
+				</ul>
+			</div>
 
 
-				<!--Contacts-->
+			<!--Contacts-->
 
-				<div class="col-md-4">
-					<ul id="footerList">
-						<li><img id="footerLogo" src="images/sprout.png"></li>
-						<li style="color: white;">Sydney, NSW 2220<br /> Phone:
-							0433371679<br /> Fax: 631-270-1502<br />
-							Email:info@sprouttech.com.au
-						</li>
-					</ul>
-				</div>
+			<div class="col-md-4">
+				<ul id="footerList">
+					<li><img id="footerLogo" src="images/sprout.png"></li>
+					<li style="color: white;">Sydney, NSW 2220<br /> Phone:
+						0433371679<br /> Fax: 631-270-1502<br />
+						Email:info@sprouttech.com.au
+					</li>
+				</ul>
+			</div>
 
 
 			</footer>
@@ -212,8 +220,8 @@
 	<script>
 		function init() {
 			window.addEventListener('scroll', resize);
-			document.getElementById("submit").addEventListener('click',
-					validateContactForm);
+			/*document.getElementById("submit").addEventListener('click',
+					validateContactForm);*/
 		}
 		window.onload = init();
 	</script>
