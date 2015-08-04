@@ -14,23 +14,19 @@ import au.com.sprouttech.models.Project;
 import au.com.sprouttech.models.Staff;
 import au.com.sprouttech.util.SpringContextUtil;
 
-
 @Controller
 public class TeamController {
 
-	
-	
-	@RequestMapping(value="/team")
-	public ModelAndView showAboutPage(){
-		
+	@RequestMapping(value = "/team")
+	public ModelAndView showAboutPage() {
+
 		ModelAndView model = new ModelAndView("team");
-		ApplicationContext context = 
-	             new ClassPathXmlApplicationContext("Beans.xml");
+		ApplicationContext context = new ClassPathXmlApplicationContext(
+				"Beans.xml");
 		StaffDaoImpl staffDao = (StaffDaoImpl) context.getBean("staffDaoImpl");
-		List<Staff> staffs = (List<Staff>)staffDao.getAll();
-		model.addObject("staffs",staffs);
+		List<Staff> staffs = (List<Staff>) staffDao.getAll();
+		model.addObject("staffs", staffs);
 		return model;
-		
-		
+
 	}
 }
