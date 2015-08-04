@@ -84,16 +84,21 @@
 						<!-- profile summary -->
 						<div class="profile">
 							<ul>
-								<li id="name"><c:out value="${staff.firstName} ${staff.lastName}"/></li>
-								<li id="title"><c:out value="${staff.position}"/></li>
-								<li id="summary"><c:out value="${staff.summary}"/></li>
+								<li id="name"><c:out
+										value="${staff.firstName} ${staff.lastName}" /></li>
+								<li id="title"><c:out value="${staff.position}" /></li>
+								<li id="summary"><c:out value="${staff.summary}" /></li>
 								<li><button class="btn btn-primary btn-lg emailMe">SEND
 										ME AN EMAIL</button></li>
 								<li><ul class="socialIcon">
-										<li><i class="fa fa-linkedin-square fa-3x sc"></i></li>
-										<li><i class="fa fa-twitter-square fa-3x sc"></i></li>
-										<li><i class="fa fa-github-square fa-3x sc"></i></li>
-										<li><i class="fa fa-google-plus-square fa-3x sc"></i></li>
+										<li><a href="<c:out value="${staff.linkedIn}"/>"
+											target="_blank"><i class="fa fa-linkedin-square fa-3x sc"></i></a></li>
+										<li><a href="<c:out value="${staff.twitter}"/>"
+											target="_blank"><i class="fa fa-twitter-square fa-3x sc"></i></a></li>
+										<li><a href="<c:out value="${staff.gitHub}"/>"
+											target="_blank"><i class="fa fa-github-square fa-3x sc"></i></a></li>
+										<li><a href="http://www.w3schools.com/" target="_blank"><i
+												class="fa fa-google-plus-square fa-3x sc"></i></a></li>
 									</ul></li>
 							</ul>
 						</div>
