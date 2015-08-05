@@ -9,7 +9,7 @@
 <head>
 		
 		<meta charset="UTF-8">
-		<title>Sprout Tech</title>
+		<title>Sprout Tech | Home</title>
 		
 		<!-- Style sheet and web fonts links-->
 		
@@ -62,7 +62,7 @@
 
 				<!--  Explore Ideas div	-->
 				<div class="col-md-4 col-sm-12" id="feature">
-					<img src="images/idea.png" alt="">
+					<img src="images/homepage/idea.png" alt="">
 					<div class="headd">DISCOVER</div>
 					<div class="brief">Every project is unique and needs a bespoke
 						solution. Our key focus is to accommodate the needs of clients and
@@ -75,7 +75,7 @@
 	
 				<!--  Develop& Design div	-->
 				<div class="col-md-4 col-sm-12" id="feature">
-					<img src="images/development.png" alt="">
+					<img src="images/homepage/development.png" alt="">
 					<div class="headd">DESIGN & DEVELOPMENT</div>
 					<div class="brief">Our design presents your norms and values
 						to deliver real yourself to your customers.Simplicity and elegance
@@ -87,7 +87,7 @@
 	
 				<!--  Hello world div	-->
 				<div class="col-md-4 col-sm-12" id="feature">
-					<img src="images/globe.png" alt="">
+					<img src="images/homepage/globe.png" alt="">
 					<div class="headd">HELLO WORLD !</div>
 					<div class="brief">Once the project has been built, we ensure
 						the successful lunch. Now the new journey starts as we present your

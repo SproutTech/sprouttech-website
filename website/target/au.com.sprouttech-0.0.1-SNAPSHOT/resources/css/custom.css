@@ -188,7 +188,7 @@ a {
 
 /**Home page css **/
 #introImage {
-	background-image: url("../images/landing-page-background.png");
+	background-image: url("../images/homepage/landing-page-background.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	left: 0;

@@ -7,7 +7,7 @@
 
 <head>
 <meta charset="UTF-8">
-<title>Our Team</title>
+<title>Sprout Tech | Team Sprout</title>
 
 		
 		<!-- Style sheet and web fonts links-->

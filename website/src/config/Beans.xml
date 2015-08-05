@@ -30,9 +30,9 @@
 	<bean id="dataSource"
 		class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
-        <property name="url" value="jdbc:mysql://localhost:3306/au.com.sprout-tech" />
-        <property name="username" value="root" />
-        <property name="password" value="rajeshbasnet" />
+        <property name="url" value="jdbc:mysql://localhost:3306/rajeshba_sprouttech" />
+        <property name="username" value="rajeshba_root" />
+        <property name="password" value="Rajradha88" />
 	</bean>
 	
 	<bean id="jdbcTemplate"
