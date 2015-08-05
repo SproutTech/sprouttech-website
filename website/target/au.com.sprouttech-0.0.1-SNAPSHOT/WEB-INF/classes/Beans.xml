@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+	
+	
+	
+	<bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">  
+  
+        <property name="host" value="smtp-mail.outlook.com" />
+        <property name="port" value="587" />
+         <property name="username" value="basnetrahzes@hotmail.com" />
+        <property name="password" value="rajradha88" />
+        <property name="javaMailProperties">
+            <props>
+                <prop key="mail.smtp.auth">true</prop>
+                <prop key="mail.smtp.starttls.enable">true</prop>
+            </props>
+        </property>
+    </bean> 
+	
+	<bean id="mailManager" class="au.com.sprouttech.util.MailManager">
+		<property name="mailSender" ref="mailSender"></property>
+		
+	</bean>
+	
+	
+	<bean id="dataSource"
+		class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
+        <property name="url" value="jdbc:mysql://localhost:3306/rajeshba_sprouttech" />
+        <property name="username" value="rajeshba_root" />
+        <property name="password" value="Rajradha88" />
+	</bean>
+	
+	<bean id="jdbcTemplate"
+		class="org.springframework.jdbc.core.JdbcTemplate">
+		<property name="dataSource" ref="dataSource" />
+	</bean>
+	
+	<bean id="staff" class="au.com.sprouttech.models.Staff" scope="prototype"></bean>
+	
+	<bean id="project" class="au.com.sprouttech.models.Project" scope="prototype"></bean>
+	
+	<bean id="projectDaoImpl"
+		class="au.com.sprouttech.dao.ProjectDaoImpl">
+	<property name="dataSource" ref="dataSource"></property>
+	<property name="jdbcTemplate" ref="jdbcTemplate"></property>
+	</bean>
+	
+	
+	<bean id="staffDaoImpl"
+		class="au.com.sprouttech.dao.StaffDaoImpl">
+	
+	<property name="jdbcTemplate" ref="jdbcTemplate"></property>
+	</bean>
+	
+	<bean id="springContext" class="au.com.sprouttech.util.SpringContextUtil">
+	
+	</bean>
+</beans>

@@ -4,7 +4,7 @@ public class Project {
 
 	private String projectName;
 	private String summary;
-	private String webAddress;
+	private String url;
 	private String imagePath;
 
 	public Project() {
@@ -27,12 +27,14 @@ public class Project {
 		this.summary = summary;
 	}
 
-	public String getWebAddress() {
-		return webAddress;
+	
+
+	public String getUrl() {
+		return url;
 	}
 
-	public void setWebAddress(String webAddress) {
-		this.webAddress = webAddress;
+	public void setUrl(String url) {
+		this.url = url;
 	}
 
 	public String getImagePath() {
