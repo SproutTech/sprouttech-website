@@ -75,7 +75,7 @@
 						<div class="form-group ">
 							<label for="email"><b>Name:</b></label> <input type="text"
 								class="form-control test" id="sender" name="sender"
-								placeholder="Enter password">
+								placeholder="Enter name">
 								
 						</div>
 						<div class="form-group ">
@@ -86,7 +86,7 @@
 						<div class="form-group ">
 							<label for="email"><bold>Subject:</bold></label> <input type="text"
 								class="form-control" name="subject" id="subject"
-								placeholder="Enter email">
+								placeholder="Enter subject">
 						</div>
 						<div class="form-group ">
 							<label for="email"><bold>Message:</bold></label>
