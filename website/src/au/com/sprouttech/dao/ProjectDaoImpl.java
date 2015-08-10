@@ -40,10 +40,10 @@ public class ProjectDaoImpl implements ProjectInterface {
 		List<Map<String, Object>> rows = jdbcTemplate.queryForList(sql);
 
 		for (Map row : rows) {
-			Project project = (Project) SpringContextUtil.getContext().getBean(
-					"project");
+			Project project = (Project) SpringContextUtil.getContext().getBean("project");
 			project.setProjectName((String) row.get("project_name"));
 			project.setSummary((String) row.get("project_summary"));
+			project.setUrl((String) row.get("project_url"));
 			project.setImagePath((String) row.get("image_path"));
 
 			projectList.add(project);
