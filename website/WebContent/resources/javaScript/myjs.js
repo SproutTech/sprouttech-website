@@ -16,7 +16,7 @@ function resize(e) {
 /* validate contact form */
 
 function validateContactForm(e) {
-
+	
 	var myForm = document.forms.contactForm;
 
 	var sender = myForm.sender.value;
@@ -25,11 +25,15 @@ function validateContactForm(e) {
 	var message = myForm.message.value;
 
 	var isValidSender = checkSender(sender);
+	
 	var isValidEmail = checkEmail(email);
 	var isValidSubject = checkSubject(subject);
 	var isValidMessage = checkMessage(message);
+	
 
-	if (isValidSender === "false" || isValidEmail === "false" || isValidSubject=="false"||isValidMessage=="false") {
+	if (!isValidSender  || !isValidEmail  || !isValidSubject || !isValidMessage) 
+	{
+		
 		event.preventDefault();
 
 	}
@@ -43,19 +47,19 @@ function validateContactForm(e) {
 			if (namePattern.test(sender)) {
 
 				myForm.sender.style.border = "none";
-				return "true";
+				return true;
 			} else {
 				myForm.sender.style.border = "1px red solid";
 				myForm.sender.placeholder = "Please enter the valid name";
-				myForm.errorSign.style.display="block";
 				myForm.sender.value = "";
-				return "false";
+				
+				return false;
 			}
 		} else {
 
 			myForm.sender.style.border = "1px red solid";
 			myForm.sender.placeholder = "Please enter the name";
-			return "false";
+			return false;
 		}
 
 	}

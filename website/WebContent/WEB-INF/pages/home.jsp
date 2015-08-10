@@ -17,7 +17,7 @@
 		<link href='http://fonts.googleapis.com/css?family=Quicksand|Open+Sans:400,600,800' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/custom.css">
-		
+		<link rel="icon" type="image/png" sizes="32x32" href="images/sprout.ico/ms-icon-150x150.png">
 		<!-- End of style sheet and web fonts links -->
 </head>
 
