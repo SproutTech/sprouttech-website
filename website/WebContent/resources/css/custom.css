@@ -517,3 +517,11 @@ a {
 .contactPage {
 	font-size: 14pt;
 }
+
+.erroMessage{
+	
+	color:red;
+}
+#mylabel{
+	font-weight:700;
+}
