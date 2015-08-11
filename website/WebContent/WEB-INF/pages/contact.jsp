@@ -63,9 +63,7 @@
 
 		<!--Main Body Section -->
 		<div class=" contactForm">
-			<form:form role="form" id="contactForm" action="send" method="POST"
-				commandName="message">
-
+			
 				<div class="row">
 					<div class="col-md-1"></div>
 					<div class=col-md-6>
@@ -78,6 +76,9 @@
 						</div>
 
 						<br>
+						<form:form role="form" id="contactForm" action="send" method="POST"
+				commandName="message">
+						
 						<div class="form-group ">
 							<label for="email">Name:</label> <input type="text"
 								class="form-control test" id="sender" name="sender"
@@ -88,7 +89,8 @@
 						<div class="form-group ">
 							<label for="email">Email address:</label> <input
 								type="text" class="form-control" name="email" id="email"
-								placeholder="Enter email"> <span style="color: red;"><form:errors
+								placeholder="Enter email"> <span style="color: red;">
+								<form:errors
 									path="email" cssClass="error" element="div" /></span>
 						</div>
 						<div class="form-group ">
@@ -112,6 +114,7 @@
 							<button id="reset" type="reset"
 								class="btn btn-danger btn-lg reset">Reset</button>
 						</div>
+						</form:form>
 					</div>
 					<div class="col-md-2"></div>
 					<div class="col-md-2">
@@ -130,7 +133,7 @@
 						
 					</div>
 				</div>
-			</form:form>
+			
 			</div>
 
 
@@ -208,7 +211,7 @@
 		<script>
 			function init() {
 				window.addEventListener('scroll', resize);
-				document.getElementById("submit").addEventListener('click',validateContactForm);
+				//document.getElementById("submit").addEventListener('click',validateContactForm);
 			}
 			window.onload = init();
 		</script>
