@@ -526,3 +526,71 @@ a {
 #mylabel{
 	font-weight:700;
 }
+
+/*****Bootstrap css overwrite ****
+sm-nav{
+position:fixed;
+width:100%;
+z-index: 999;
+
+}
+.navbar-custom {
+	border: none;
+	background-color: rgba(28, 31, 35, 0.9);
+	height: 80px;
+color:white;
+		
+	
+}
+
+.navbar-nav>li>a {
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+}
+
+.navbar {
+	min-height: 80px;
+	margin-left: 0;
+	padding-right: 0;
+	margin-bottom: 0;
+}
+
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color:#84BE29;
+}
+
+#test{
+margin-top:30px;
+border:1px  #f16521 solid;
+}
+#test:hover {
+background-color: transparent;
+
+}
+#test:focus {
+background-color: transparent;
+
+}
+#bs-example-navbar-collapse-1{
+
+
+text-align: right;
+border:none;
+background-color: rgba(28, 31, 35, 0.9);
+
+}
+#bs-example-navbar-collapse-1>ul>li>{
+
+}
+#bs-example-navbar-collapse-1>ul>li>a{
+font-family:Quicksand;
+color:white;
+font-size:9pt;
+height:30px;
+}
+#bs-example-navbar-collapse-1>ul>li>a:hover{
+background-color:#f16521;
+opacity:0.9;
+
+}
