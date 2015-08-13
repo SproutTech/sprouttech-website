@@ -53,7 +53,7 @@ color:white;
 
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: green;
+    background-color:#84BE29;
 }
 
 #test{
@@ -87,6 +87,7 @@ height:30px;
 }
 #bs-example-navbar-collapse-1>ul>li>a:hover{
 background-color:#f16521;
+opacity:0.9;
 
 }
 </style>
@@ -289,7 +290,7 @@ background-color:#f16521;
 	<script src="javaScript/myjs.js"></script>
 	<script src="javaScript/classie.js"></script>
 	<script src="javaScript/bootstrap.min.js"></script>
-
+<script>
 		function init() {
 			window.addEventListener('scroll', resize);
 		}
