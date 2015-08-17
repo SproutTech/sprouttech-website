@@ -126,8 +126,10 @@ a {
 }
 
 .footer {
-	height: 300px;
+height:auto;
+	min-height: 300px;
 	background-color: rgba(28, 31, 35, 0.9);
+	display: inline-block;
 }
 
 #footerAboutServices {
@@ -187,8 +189,8 @@ a {
 /* End of footer section */
 
 /**Home page css **/
-#introImage {
-	background-image: url("../images/homepage/landing-page-background.png");
+.lgIntroImage {
+	background-image: url(../images/homepage/landing-page-background.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	left: 0;
@@ -197,6 +199,19 @@ a {
 	top: 0;
 	
 }
+
+.smIntroImage{
+	background-image: url(../images/homepage/landing-page-background.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	left: 0;
+	height:380px;
+	min-width: 100%;
+	margin-top: 80px;
+	
+}
+
+
 
 /* Feature section */
 .featureWrapper {
@@ -527,20 +542,18 @@ a {
 	font-weight:700;
 }
 
-/*****Bootstrap css overwrite ****
-sm-nav{
-position:fixed;
-width:100%;
-z-index: 999;
-
+/*****Bootstrap css overwrite ****/
+.sm-nav {
+	position: fixed;
+	width: 100%;
+	z-index: 999;
 }
+
 .navbar-custom {
 	border: none;
-	background-color: rgba(28, 31, 35, 0.9);
+	background-color: rgb(28, 31, 35);
 	height: 80px;
-color:white;
-		
-	
+	color: white;
 }
 
 .navbar-nav>li>a {
@@ -555,42 +568,38 @@ color:white;
 	margin-bottom: 0;
 }
 
-
 .navbar-default .navbar-toggle .icon-bar {
-    background-color:#84BE29;
+	background-color: #84BE29;
 }
 
-#test{
-margin-top:30px;
-border:1px  #f16521 solid;
+#toggle-bttn {
+	margin-top: 30px;
+	border: 1px #f16521 solid;
 }
-#test:hover {
-background-color: transparent;
 
+#toggle-bttn:hover {
+	background-color: transparent;
 }
-#test:focus {
-background-color: transparent;
 
+#toggle-bttn:focus {
+	background-color: transparent;
 }
-#bs-example-navbar-collapse-1{
 
-
-text-align: right;
-border:none;
-background-color: rgba(28, 31, 35, 0.9);
-
+#navbar-collapse {
+	text-align: right;
+	border: none;
+	background-color: rgba(28, 31, 35, 0.9);
 }
-#bs-example-navbar-collapse-1>ul>li>{
 
+#navbar-collapse>ul>li>a {
+	font-family: Quicksand;
+	color: white;
+	font-size: 9pt;
+	height: 30px;
 }
-#bs-example-navbar-collapse-1>ul>li>a{
-font-family:Quicksand;
-color:white;
-font-size:9pt;
-height:30px;
-}
-#bs-example-navbar-collapse-1>ul>li>a:hover{
-background-color:#f16521;
-opacity:0.9;
 
+#navbar-collapse>ul>li:not(#special)>a:hover {
+	background-color: #f16521;
+	opacity: 0.9;
 }
+/** End of Bootstrap css over ride **/
