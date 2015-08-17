@@ -9,16 +9,20 @@
 <meta charset="UTF-8">
 <title>Sprout Tech | Team Sprout</title>
 
-		
-		<!-- Style sheet and web fonts links-->
-		
-		<link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
-		<link href='http://fonts.googleapis.com/css?family=Quicksand|Open+Sans:400,600,800' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="css/bootstrap.min.css">
-		<link rel="stylesheet" href="css/custom.css">
-		<link rel="stylesheet" type="text/css" href="fontIcons/css/font-awesome.min.css">
-		
-		<!-- End of style sheet and web fonts links -->
+
+<!-- Style sheet and web fonts links-->
+
+<link href='http://fonts.googleapis.com/css?family=Vollkorn'
+	rel='stylesheet' type='text/css'>
+<link
+	href='http://fonts.googleapis.com/css?family=Quicksand|Open+Sans:400,600,800'
+	rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/custom.css">
+<link rel="stylesheet" type="text/css"
+	href="fontIcons/css/font-awesome.min.css">
+
+<!-- End of style sheet and web fonts links -->
 
 </head>
 
@@ -28,7 +32,7 @@
 	<div class="container-fluid">
 
 
-		<header class="row ">
+		<header class="row hidden-xs ">
 
 			<div id="logo"></div>
 
@@ -52,6 +56,40 @@
 		<!-- End of Header -->
 
 
+		<!-- mobile version nav  bar -->
+
+		<div class="row sm-nav visible-xs">
+			<nav class="navbar navbar-default navbar-custom">
+				<div class="navbar-header ">
+					<button type="button" class="navbar-toggle collapsed "
+						data-toggle="collapse" data-target="#navbar-collapse"
+						aria-expanded="false" id="toggle-bttn">
+						<span class="sr-only">Toggle navigation</span> <span
+							class="icon-bar "></span> <span class="icon-bar "></span> <span
+							class="icon-bar "></span>
+					</button>
+
+					<!-- brand image -->
+					<a class="navbar-brand" href="www.sprouttech.com.au"><img
+						class=" visible-xs" style="height: 50px; width: 110px;"
+						src="images/sprout.png"> </a>
+				</div>
+
+				<!-- navbar-toggle-collapse -->
+				<div class="collapse navbar-collapse " id="navbar-collapse">
+					<ul class="nav navbar-nav ">
+						<li><a href="home"><i class="fa fa-home fa-lg "></i></a></li>
+						<li><a href="portfolio">Portfolio</a></li>
+						<li><a href="team">Team Sprout</a></li>
+						<li><a href="contacts">Contact</a></li>
+					</ul>
+				</div>
+				<!-- navbar-toggle-collapse -->
+
+			</nav>
+		</div>
+		<!-- end of mob nav bar -->
+
 		<!--Main Body Section -->
 		<div class="row profileSection">
 
@@ -60,12 +98,12 @@
 			<!-- right empty section -->
 			<div class="col-md-2"></div>
 
-			
+
 			<div class=" col-md-8">
 				<c:forEach items="${staffs}" var="staff">
 					<!--profile container-->
 					<div class="profileContainer">
-						
+
 						<!-- profile image holder-->
 						<div class="profileImage">
 							<img src="<c:out value="${staff.imagePath}"/>">
@@ -74,15 +112,22 @@
 						<!-- profile summary -->
 						<div class="profile">
 							<ul>
-								<li id="name"><c:out value="${staff.firstName} ${staff.lastName}" /></li>
+								<li id="name"><c:out
+										value="${staff.firstName} ${staff.lastName}" /></li>
 								<li id="title"><c:out value="${staff.position}" /></li>
 								<li id="summary"><c:out value="${staff.summary}" /></li>
-								<li><button class="btn btn-primary btn-lg emailMe">SEND ME AN EMAIL</button></li>
+								<li><button class="btn btn-primary btn-lg emailMe">SEND
+										ME AN EMAIL</button></li>
 								<li><ul class="socialIcon">
-										<li><a href="<c:out value="${staff.linkedIn}"/>" target="_blank"><i class="fa fa-linkedin-square fa-3x sc"></i></a></li>
-										<li><a href="<c:out value="${staff.twitter}"/>" target="_blank"><i class="fa fa-twitter-square fa-3x sc"></i></a></li>
-										<li><a href="<c:out value="${staff.gitHub}"/>" target="_blank"><i class="fa fa-github-square fa-3x sc"></i></a></li>
-										<li><a href="<c:out value="${staff.googlePlus}"/>" target="_blank"><i class="fa fa-google-plus-square fa-3x sc"></i></a></li>
+										<li><a href="<c:out value="${staff.linkedIn}"/>"
+											target="_blank"><i class="fa fa-linkedin-square fa-3x sc"></i></a></li>
+										<li><a href="<c:out value="${staff.twitter}"/>"
+											target="_blank"><i class="fa fa-twitter-square fa-3x sc"></i></a></li>
+										<li><a href="<c:out value="${staff.gitHub}"/>"
+											target="_blank"><i class="fa fa-github-square fa-3x sc"></i></a></li>
+										<li><a href="<c:out value="${staff.googlePlus}"/>"
+											target="_blank"><i
+												class="fa fa-google-plus-square fa-3x sc"></i></a></li>
 									</ul></li>
 							</ul>
 						</div>
@@ -102,7 +147,7 @@
 		<!-- Made in Australia Section -->
 
 		<div class="madeInAus"></div>
-		
+
 		<!-- Footer Section -->
 		<div class="row">
 
@@ -170,11 +215,12 @@
 
 
 	<!-- Js -->
-
+	<script
+		src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<script src="javaScript/bootstrap.min.js"></script>
 	<script src="javaScript/myjs.js"></script>
 	<script src="javaScript/classie.js"></script>
-	
+
 
 	<script>
 		function init() {
@@ -182,6 +228,6 @@
 		}
 		window.onload = init();
 	</script>
-	
+
 </body>
 </html>
