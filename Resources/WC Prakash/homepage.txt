@@ -8,5 +8,7 @@ Design/Develop
 
 
 
-
-
+ 
+Rajesh Basnet is a developer. He graduated from Charls Stuart University, Australia with Bachelor of Information Technology. 
+His creative and innovative ideas were crucial at the development of this website. He is pro at Java, html, css, javascript and Bootstrap. 
+Listening to music, watching movies and long drive are his hobbies.
